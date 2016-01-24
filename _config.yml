@@ -34,22 +34,18 @@ owner:
   name: Chang
   avatar: avatar.jpg
   job: "M.Sc, KTH Royal Institute of Technology"
-  bio: "A programmer, a data analyst, and an embedded engineer
-
-    • who is expecting to solve real problems
-
-    • who is desiring to apply technology to improve people's life
-
-    • who is passionate, curious, persistent and committed
-
-    • who is willing to contribute and to learn"
+  bio: "A programmer, a data analyst, and an embedded engineer \\
+          • \\ who is expecting to solve real problems \\
+          • \\ who is desiring to apply technology to improve people's life \\
+          • \\ who is passionate, curious, persistent and committed \\
+          • \\ who is willing to contribute and to learn"
   email: fluency.03@gmail.com
   disqus-shortname: changblog
   twitter: #username
   facebook: #username
   google:
     plus: #username
-    analytics: UA-62251910-1
+    analytics: #UA-62251910-1
     verify:
     ad-client:
     ad-slot:
@@ -58,7 +54,7 @@ owner:
   stackoverflow: 4802797/chang-liu #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: fluency03 #username
   xing: #username
-  instagram: #username
+  instagram: changliu03 #username
   lastfm: #username
   tumblr: #username
   pinterest: #username
