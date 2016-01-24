@@ -3,16 +3,16 @@
 # Site wide configuration
 ####################################
 #
-title:       "Renyuan's blog"
-description: 'A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France.'
-url:         # the base hostname & protocol for your site
+title:       "Chang's blog"
+description: 'SOFTWARE DEVELOPMENT · EMBEDDED SYSTEMS · DATA SCIENCE'
+url:        # http://fluency03.github.io # the base hostname & protocol for your site
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Europe/Stockholm
 markdown:          kramdown
 highlighter:       pygments
 excerpt_separator: <!--more-->
@@ -31,13 +31,21 @@ kramdown:
 ####################################
 #
 owner:
-  name: Renyuan
+  name: Chang
   avatar: avatar.jpg
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: zourenyuan@gmail.com
-  disqus-shortname: renyuanzblog
-  twitter: alittlered3 #username
+  job: "M.Sc, KTH Royal Institute of Technology"
+  bio: "A programmer, a data analyst, and an embedded engineer
+
+    • who is expecting to solve real problems
+
+    • who is desiring to apply technology to improve people's life
+
+    • who is passionate, curious, persistent and committed
+
+    • who is willing to contribute and to learn"
+  email: fluency.03@gmail.com
+  disqus-shortname: changblog
+  twitter: #username
   facebook: #username
   google:
     plus: #username
@@ -46,9 +54,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: renyuanz #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  github: fluency03 #username
+  stackoverflow: 4802797/chang-liu #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: fluency03 #username
   xing: #username
   instagram: #username
   lastfm: #username
