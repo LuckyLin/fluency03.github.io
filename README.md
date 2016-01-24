@@ -1,4 +1,4 @@
 # Chang's Blog
-**[http://fluency03.github.io](http://fluency03.github.io)**
+Website: **[http://fluency03.github.io](http://fluency03.github.io)**
 
-Theme template from [here](https://github.com/renyuanz/leonids).
+Theme template can be found [here](https://github.com/renyuanz/leonids) from @[renyuanz](https://github.com/renyuanz).
