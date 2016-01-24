@@ -5,7 +5,7 @@
 #
 title:       "Chang's blog"
 description: 'SOFTWARE DEVELOPMENT · EMBEDDED SYSTEMS · DATA SCIENCE'
-url:        # http://fluency03.github.io # the base hostname & protocol for your site
+url:         http://fluency03.github.io # the base hostname & protocol for your site
 
 #
 ###################################
@@ -67,6 +67,6 @@ owner:
   dribbble: #username
   youtube: #username
   soundcloud: #username
-  weibo: #username
+  weibo: fluency03 #username
   flickr: #username
   codepen: #username
