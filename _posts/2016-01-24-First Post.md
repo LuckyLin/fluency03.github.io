@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Post"
+title: "第一篇博文！| First Post！"
 
 excerpt: "第一篇博文！ | This is my firt post." # without setting this option, jekyll will take the first 160 words to be its  excerpt part.
 tags: [sample post, first, test] # tags.
