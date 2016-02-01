@@ -27,25 +27,25 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > I said those words back in 2011, when a Facebook page I anonymously created helped spark the Egyptian revolution. The Arab Spring revealed social media's greatest potential, but it also exposed its greatest shortcomings. The same tool that united us to topple dictators eventually tore us apart. I would like to share my own experience in using social media for activism, and talk about some of the challenges I have personally faced and what we could do about them.
 
-我说这番话的时候是2011年，那时我匿名创建了一个脸书主页，这个主页帮助点燃了埃及的革命。*阿拉伯之春* (*详见[维基百科](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%89%E4%BC%AF%E4%B9%8B%E6%98%A5)*) 揭示了社交媒体的巨大潜力，同时也暴露了其最大的缺点。这个工具让我们团结起来推翻独裁者，可也同样最终把我们撕裂。 我想分享我自己的将社交媒体用于行动主义 (*activism: a doctrine or practice that emphasizes direct vigorous action especially in support of or opposition to one side of a controversial issue. see [Merriam Webster](http://www.merriam-webster.com/dictionary/activism), 行为主义，激进主义* ) 的经验，并讨论一些我个人面对的挑战，以及我们能够做些什么。
+我说这番话的时候是2011年，那时我匿名创建了一个脸书主页，这个主页帮助点燃了埃及的革命。*阿拉伯之春* (*详见[维基百科](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%89%E4%BC%AF%E4%B9%8B%E6%98%A5)*) 揭示了社交媒体的巨大潜力，同时也暴露了其最大的缺点。这个工具让我们团结起来推翻独裁者，可也同样最终把我们撕裂。我想分享我自己的将社交媒体用于行动主义 (*activism: a doctrine or practice that emphasizes direct vigorous action especially in support of or opposition to one side of a controversial issue. see [Merriam Webster](http://www.merriam-webster.com/dictionary/activism), 行为主义，激进主义* ) 的经验，并讨论一些我个人面对的挑战，以及我们能够做些什么。
 
 
 
 > In the early 2000s, Arabs were flooding the web. Thirsty for knowledge, for opportunities, for connecting with the rest of the people around the globe, we escaped our frustrating political realities and lived a virtual, alternative life. Just like many of them, I was completely apolitical until 2009. At the time, when I logged into social media, I started seeing more and more Egyptians aspiring for political change in the country. It felt like I was not alone.
 
-21世纪初期，阿拉伯人大批涌进互联网。 我们渴望知识、渴望机遇、渴望连结这个世界上的其他人，我们逃离了令人沮丧的政治现状，活在虚拟的、用以替代现实的人生中。和他们中的很多人一样，我在2009年以前从来不关心政治。 可在那时，我登入社交媒体，开始看到越来越多的埃及人渴望着这个国家政治变革。我感到自己并不孤独。
+21世纪初期，阿拉伯人大批涌进互联网。我们渴望知识、渴望机遇、渴望连结这个世界上的其他人，我们逃离了令人沮丧的政治现状，活在虚拟的、用以替代现实的人生中。和他们中的很多人一样，我在2009年以前从来不关心政治。可在那时，我登入社交媒体，开始看到越来越多的埃及人渴望着这个国家政治变革。我感到自己并不孤独。
 
 
 
 > In June 2010, Internet changed my life forever. While browsing Facebook, I saw a photo, a terrifying photo, of a tortured, dead body of a young Egyptian guy. His name was Khaled Said. Khaled was a 29-year-old Alexandrian who was killed by police. I saw myself in his picture. I thought, "I could be Khaled."
 
-2010年6月，互联网永远地改变了我的人生。在浏览脸书时，我看到了一张照片，一张可怕的照片 --- 一个被折磨过的埃及年轻人的尸体。他的名字是卡勒德·赛义德。 29岁的亚历山大人卡勒德是被警察杀害的。在他的照片中，我看到了自己。我想：“我也可能是卡勒德。”
+2010年6月，互联网永远地改变了我的人生。在浏览脸书时，我看到了一张照片，一张可怕的照片 --- 一个被折磨过的埃及年轻人的尸体。他的名字是卡勒德·赛义德。29岁的亚历山大人卡勒德是被警察杀害的。在他的照片中，我看到了自己。我想：“我也可能是卡勒德。”
 
 
 
 > I could not sleep that night, and I decided to do something. I anonymously created a Facebook page and called it "We are all Khaled Said." In just three days, the page had over 100,000 people, fellow Egyptians who shared the same concern. Whatever was happening had to stop.
 
-那晚我无法入睡，我决定要做些事。我匿名创建了脸书页面并且称之为“*我们都是卡勒德·赛义德 ([We are all Khaled Said](https://www.facebook.com/elshaheeed.co.uk))*”。 3天内，这个主页的追随者超过了10万人，十万有着同样担忧的埃及人。无论如何，这些正在发生的事必须停止。
+那晚我无法入睡，我决定要做些事。我匿名创建了脸书页面并且称之为“*我们都是卡勒德·赛义德 ([We are all Khaled Said](https://www.facebook.com/elshaheeed.co.uk))*”。3天内，这个主页的追随者超过了10万人，十万有着同样担忧的埃及人。无论如何，这些正在发生的事必须停止。
 
 
 
@@ -56,12 +56,12 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > On January 14, 2011, Ben Ali fled out of Tunisia after mounting protests against his regime. I saw a spark of hope. Egyptians on social media were wondering, "If Tunisia did it, why can't we?" I posted an event on Facebook and called it "A Revolution against Corruption, Injustice and Dictatorship." I posed a question to the 300,000 users of the page at the time: "Today is the 14th of January. The 25th of January is Police Day. It's a national holiday. If 100,000 of us take to the streets of Cairo, no one is going to stop us. I wonder if we could do it."
 
-2011年1月14日，在大量的抗议人群反对他的政权之后，本·阿里逃离了突尼西亚。 我看到了希望的火花。社交媒体上的埃及人想，“突尼西亚做到了，为什么我们不能呢？” 我在脸书上公布了一个活动 “*一场反对腐败、不公和独裁的革命 (A Revolution against Corruption, Injustice and Dictatorship)*”。我向30万的主页粉丝提出了一个问题：“今天是1月14日。 1月25日是警察日，一个全国性的节日。如果我们有10万人走上开罗街头，没有人能够阻止我们。我不知道我们能不能做到。”
+2011年1月14日，在大量的抗议人群反对他的政权之后，本·阿里逃离了突尼西亚。我看到了希望的火花。社交媒体上的埃及人想，“突尼西亚做到了，为什么我们不能呢？” 我在脸书上公布了一个活动 “*一场反对腐败、不公和独裁的革命 (A Revolution against Corruption, Injustice and Dictatorship)*”。我向30万的主页粉丝提出了一个问题：“今天是1月14日。1月25日是警察日，一个全国性的节日。如果我们有10万人走上开罗街头，没有人能够阻止我们。我不知道我们能不能做到。”
 
 
 > In just a few days, the invitation reached over a million people, and over 100,000 people confirmed attendance. Social media was crucial for this campaign. It helped a decentralized movement arise. It made people realize that they were not alone. And it made it impossible for the regime to stop it. At the time, they didn't even understand it. And on January 25th, Egyptians flooded the streets of Cairo and other cities, calling for change, breaking the barrier of fear and announcing a new era.
 
-几天之内，这个邀请 就送达到超过1百万人， 超过10万人确认他们会参加。 社交媒体对这场运动至关重要。 它帮助了一个去中心化的 社会运动崛起。 它让人们意识到 他们并不是孤单。 它让政府无法阻挡。 在那时，政府甚至不懂那是什么。 在1月25日，埃及人 涌上开罗和其它城市的街头， 呼吁变革， 冲破恐惧 宣告新时代的到来。
+仅仅在几天之内，这个邀请 就送达到超过1百万人， 超过10万人确认他们会参加。 社交媒体对这场运动至关重要。 它帮助了一个去中心化的 社会运动崛起。 它让人们意识到 他们并不是孤单。 它让政府无法阻挡。 在那时，政府甚至不懂那是什么。 在1月25日，埃及人 涌上开罗和其它城市的街头， 呼吁变革， 冲破恐惧 宣告新时代的到来。
 
 
 > Then came the consequences. A few hours before the regime cut off the Internet and telecommunications, I was walking in a dark street in Cairo, around midnight. I had just tweeted, "Pray for Egypt. The government must be planning a massacre tomorrow."
