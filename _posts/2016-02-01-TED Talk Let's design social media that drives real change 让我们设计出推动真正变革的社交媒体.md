@@ -2,7 +2,7 @@
 layout: post
 title: "TED Talk: Let's design social media that drives real change | 让我们设计出推动真正变革的社交媒体 "
 
-excerpt: "昨天看了这个TED Talk，有很多想说的，不仅仅是因为他的话引发了我的很多共鸣，更多的是最近 Facebook、Weibo 等社交网络因为大陆和台湾的事情乌烟瘴气，两边的网民骂来骂去，更多的人不经思考被别人或被媒体煽动着鼓舞着，信誓旦旦，大义凛然。我只是希望当人们在网上发布某些话的时候，都能多些思考，而不是随波逐流，沦为被利用的工具。对一些国家来说，言论自由就像是一个脆弱的、被众人觊觎的悖论：一方面，人民的整体素质无法支撑言论自由带来的巨大冲击，很多人无法明白自己言论的自由意味着什么，无法理解自由的言论背后有着多大的力量，更脆弱的、不堪一击地被各种势力牵着鼻子；另一方面，如果不给予言论的自由，人民有永远无法从痛苦、自我反省和自我认知中学习如何行使自己的权利。" # without setting this option, jekyll will take the first 160 words to be its  excerpt part.
+excerpt: "昨天看了这个TED Talk，有很多想说的，不仅仅是因为他的话引发了我的很多共鸣，更多的是最近 Facebook、Weibo 等社交网络因为大陆和台湾的事情乌烟瘴气，两边的网民骂来骂去，更多的人不经思考被别人或被媒体煽动着鼓舞着，信誓旦旦，大义凛然。我只是希望当人们在网上发布某些话的时候，都能多些思考，而不是随波逐流，沦为被利用的工具。" # without setting this option, jekyll will take the first 160 words to be its  excerpt part.
 tags: [ted talk, social media, change] # tags.
 categories: [society] # categories.
 comments: true # enable disqus comment
@@ -12,7 +12,9 @@ comments: true # enable disqus comment
 TED Talk: [Let's design social media that drives real change](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change) given by Wael Ghonim ( *[Wiki Page](https://en.wikipedia.org/wiki/Wael_Ghonim) and [Twitter Page](https://twitter.com/Ghonim)* ).
 
 
-昨天看了这个TED Talk，有很多想说的，不仅仅是因为他的话引发了我的很多共鸣，更多的是最近 Facebook、Weibo 等社交网络因为大陆和台湾的事情乌烟瘴气，两边的网民骂来骂去，更多的人不经思考被别人或被媒体煽动着鼓舞着，信誓旦旦，大义凛然。我只是希望当人们在网上发布某些话的时候，都能多些思考，而不是随波逐流，沦为被利用的工具。对一些国家来说，言论自由就像是一个脆弱的、被众人觊觎的悖论：一方面，人民的整体素质无法支撑言论自由带来的巨大冲击，很多人无法明白自己言论的自由意味着什么，无法理解自由的言论背后有着多大的力量，更脆弱的、不堪一击地被各种势力牵着鼻子；另一方面，如果不给予言论的自由，人民有永远无法从痛苦、自我反省和自我认知中学习如何行使自己的权利。
+昨天看了这个TED Talk，有很多想说的，不仅仅是因为他的话引发了我的很多共鸣，更多的是最近 Facebook、Weibo 等社交网络因为大陆和台湾的事情乌烟瘴气，两边的网民骂来骂去，更多的人不经思考被别人或被媒体煽动着鼓舞着，信誓旦旦，大义凛然。我只是希望当人们在网上发布某些话的时候，都能多些思考，而不是随波逐流，沦为被利用的工具。
+
+对一些国家来说，言论自由就像是一个脆弱的、被众人觊觎的悖论：一方面，人民的整体素质无法支撑言论自由带来的巨大冲击，很多人无法明白自己言论的自由意味着什么，无法理解自由的言论背后有着多大的力量，更加脆弱地、不堪一击地被各种势力牵着鼻子；另一方面，如果不给予言论的自由，人民有永远无法从痛苦、自我反省和自我认知中学习如何行使自己的权利。
 
 
 *英文内容来自原网站脚本字幕 ( 详见[此处](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) ) ，中文部分不完全借鉴了原网站的简体中文版字幕 ( 详见[此处](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=zh-cn) )。The English content comes from the original subtitles and transcripts ( see [here](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) ). The Chinese content partially refers to the simplied Chinese subtitles and transcripts ( see [here](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=zh-cn) )*
