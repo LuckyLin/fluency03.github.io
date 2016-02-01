@@ -96,25 +96,25 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > After 11 days of complete darkness, I was set free. And three days later, Mubarak was forced to step down. It was the most inspiring and empowering moment of my life. It was a time of great hope. Egyptians lived a utopia for 18 days during the revolution. They all shared the belief that we could actually live together despite our differences, that Egypt after Mubarak would be for all.
 
-在完全黑暗的11天后，我自由了。又过了3天，穆巴拉克被迫下台。那是我人生最激动、最精神振奋的时刻。 那是怀抱伟大希望的时刻。埃及人曾活在18天革命的乌托邦中。他们共享同样的信仰 --- 我们本可以求同存异地生活在一起，穆巴拉克之后的埃及将是和平包容的国度。
+在完全黑暗的11天后，我自由了。又过了3天，穆巴拉克被迫下台。那是我人生最激动、最精神振奋的时刻。 那是怀抱伟大希望的时刻。埃及人民曾活在18天革命的乌托邦中。他们共享同样的信仰 --- --- 我们本可以求同存异地生活在一起，穆巴拉克之后的埃及将是和平包容的国度。
 
 
 
-> But unfortunately, the post-revolution events were like a punch in the gut. The euphoria faded, we failed to build consensus, and the political struggle led to intense polarization. Social media only amplified that state, by facilitating the spread of misinformation, rumors, echo chambers and hate speech. The environment was purely toxic. My online world became a battleground filled with trolls, lies, hate speech.I started to worry about the safety of my family. But of course, this wasn't just about me. The polarization reached its peak between the two main powers -- the army supporters and the Islamists. People in the center, like me, started feeling helpless. Both groups wanted you to side with them; you were either with them or against them. And on the 3rd of July 2013, the army ousted Egypt's first democratically elected president, after three days of popular protest that demanded his resignation.
+> But unfortunately, the post-revolution events were like a punch in the gut. The euphoria faded, we failed to build consensus, and the political struggle led to intense polarization. Social media only amplified that state, by facilitating the spread of misinformation, rumors, echo chambers and hate speech. The environment was purely toxic. My online world became a battleground filled with trolls, lies, hate speech. I started to worry about the safety of my family. But of course, this wasn't just about me. The polarization reached its peak between the two main powers -- the army supporters and the Islamists. People in the center, like me, started feeling helpless. Both groups wanted you to side with them; you were either with them or against them. And on the 3rd of July 2013, the army ousted Egypt's first democratically elected president, after three days of popular protest that demanded his resignation.
 
-但不幸的是，后革命时代的事件 就像胸口挨的重拳。 欢快逐渐消失， 我们未能成功达成共识， 政治斗争演变成了强烈的两极化。 社交媒体只是放大言论， 帮助传播错误的信息、谣言， 重复的口号和仇恨言论。环境完全被毒害了。 我的网络世界变成了战场 充斥着轮番大声高唱的谎言和仇恨言论。 我开始担心我家人的安危。 但显然，这并不只是针对我。 两极分化在两个主要势力对抗下 到达了巅峰 军队支持者和伊斯兰教主义者。 在中间的人们，和我一样， 开始感到无助。 两个集团都希望你站在他们一边； 你要么是伙伴，要么是敌人。 在2013年7月3日， 在持续三天的公众抗议 呼吁他下台之后， 军队驱赶了埃及历史上 第一个民主选举产生的总统。
+但不幸的是，后革命时代的事件就像胸口挨的重拳。欢快逐渐消失，可我们未能成功达成共识，政治斗争慢慢演变成了紧张的的两极分化。社交媒体只能放大言论，助长传播错误的信息、谣言，重复的口号和仇恨的言论。环境完全被毒害了。我的网络世界变成了充斥着轮番大声高唱的谎言和仇恨言论的战场。我开始担心家人的安危。 但显然，这并不只是针对我。两极分化在两个主要势力 --- 军队支持者和伊斯兰教主义者 --- 的对抗下到达了巅峰。站在中间的向我一样的人们开始感到无助。两个集团都希望你站在他们一边；你要么是伙伴，要么是敌人。2013年7月3日，在持续了三天的公众抗议，呼吁他下台之后，军队驱赶了埃及历史上第一个民主选举产生的总统。
 
 
 
-> That day I made a very hard decision. I decided to go silent, completely silent. It was a moment of defeat.I stayed silent for more than two years, and I used the time to reflect on everything that happened, trying to understand why did it happen. It became clear to me that while it's true that polarization is primarily driven by our human behavior, social media shapes this behavior and magnifies its impact. Say you want to say something that is not based on a fact, pick a fight or ignore someone that you don't like. These are all natural human impulses, but because of technology, acting on these impulses is only one click away.
+> That day I made a very hard decision. I decided to go silent, completely silent. It was a moment of defeat. I stayed silent for more than two years, and I used the time to reflect on everything that happened, trying to understand why did it happen. It became clear to me that while it's true that polarization is primarily driven by our human behavior, social media shapes this behavior and magnifies its impact. Say you want to say something that is not based on a fact, pick a fight or ignore someone that you don't like. These are all natural human impulses, but because of technology, acting on these impulses is only one click away.
 
-那天我做出了一个艰难地决定。 我决定沉默，完全沉默。 那是挫败的时刻。 我沉默了两年多， 我花时间反思 过去发生的一切， 想要理解 为什么那一切会发生。 我理解到 是的，两极化最初是由 我们的人性驱使，社交媒体塑造这个行为 并且放大了它的影响。 比如你想要说些 并不是基于事实的话， 挑起斗争 或是忽略某个你讨厌的人。 这都是人类天生的冲动， 但因为科技， 让这些冲动发酵 只要一个点击而已。
+那天我做出了一个艰难的决定。我决定沉默，完全沉默。那是最为挫败的时刻。我沉默了两年之多，我花时间反思过去发生的一切，想要理解为什么这一切会发生。我逐渐理解到 --- 两极分化最初的确主要是由我们的人性驱使的，可社交媒体塑造这个行为，并且放大了它的影响。比如说，你想要说一些并不是基于事实的话，挑起斗争或是忽略某个你讨厌的人。这都是人类天生的冲动，但因为科技，这些冲动真正发酵只需要一个点击而已。
 
 
 
 > In my view, there are five critical challenges facing today's social media.
 
-我的观点是， 今天的社交媒体面对 5个严峻的挑战。
+我认为，今天的社交媒体面着5个严峻的挑战。
 
 
 
