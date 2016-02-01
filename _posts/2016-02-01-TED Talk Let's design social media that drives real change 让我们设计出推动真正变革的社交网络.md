@@ -15,6 +15,9 @@ The English content comes from original subtitles and transcripts (see [here](ht
 
 英文内容来自原网站字幕（见[此处](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en)）。
 
+
+以下正文：
+
 > I once said, "If you want to liberate a society, all you need is the Internet." I was wrong.
 
 我曾说过， “如果你想要解放社会， 你只需要互联网。” 我错了。
