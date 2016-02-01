@@ -42,13 +42,13 @@ The English content comes from original subtitles and transcripts (see [here](ht
 
 > I could not sleep that night, and I decided to do something. I anonymously created a Facebook page and called it "We are all Khaled Said." In just three days, the page had over 100,000 people, fellow Egyptians who shared the same concern. Whatever was happening had to stop.
 
-那晚我无法入睡，我决定要做些事。我匿名创建了脸书页面并且称之为“我们都是卡勒德·赛义德 ([We are all Khaled Said](https://www.facebook.com/elshaheeed.co.uk))”。 3天内，页面追随者超过了10万人， 他们是有着同样担忧的埃及人。 正在发生的这些事必须停止。
+那晚我无法入睡，我决定要做些事。我匿名创建了脸书页面并且称之为“*我们都是卡勒德·赛义德 ([We are all Khaled Said](https://www.facebook.com/elshaheeed.co.uk))*”。 3天内，这个主页的追随者超过了10万人，十万有着同样担忧的埃及人。无论如何，这些正在发生的事必须停止。
 
 
 
 > I recruited my co-admin, Abdel Rahman Mansour. We worked together for hours and hours. We were crowdsourcing ideas from the people. We were engaging them. We were calling collectively for actions, and sharing news that the regime did not want Egyptians to know. The page became the most followed page in the Arab world. It had more fans than established media organizations and even top celebrities.
 
-我招募了我的管理伙伴， 阿德哈曼·曼索。 我们长时间一起工作。 我们把人们的想法集中起来， 让人们参与进来。 我们组织集体行动， 分享当局不愿让埃及人知道的事。 这个页面成为阿拉伯世界 最受欢迎的页面。 页面的粉丝比现有的媒体要多 甚至比当红明星还要多。
+我招募了我的管理伙伴，阿德哈曼·曼索。我们长时间一起工作。我们把人们的想法集中起来，让人们参与进来。我们组织集体行动，分享当局不愿让埃及人知道的事。这个页面成为阿拉伯世界最受欢迎的页面。页面的粉丝比现有的媒体要多，甚至比当红明星还要多。
 
 
 > On January 14, 2011, Ben Ali fled out of Tunisia after mounting protests against his regime. I saw a spark of hope. Egyptians on social media were wondering, "If Tunisia did it, why can't we?" I posted an event on Facebook and called it "A Revolution against Corruption, Injustice and Dictatorship." I posed a question to the 300,000 users of the page at the time: "Today is the 14th of January. The 25th of January is Police Day. It's a national holiday. If 100,000 of us take to the streets of Cairo, no one is going to stop us. I wonder if we could do it."
