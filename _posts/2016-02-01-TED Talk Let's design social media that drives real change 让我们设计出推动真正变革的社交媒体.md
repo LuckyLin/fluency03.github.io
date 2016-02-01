@@ -19,24 +19,24 @@ The English content comes from original subtitles and transcripts (see [here](ht
 
 > I once said, "If you want to liberate a society, all you need is the Internet." I was wrong.
 
-我曾经说：“如果你要解放社会，你需要的只是互联网。” 我错了。
+我曾说过：“如果你要解放社会，你需要的只是互联网。” 我错了。
 
 
 > I said those words back in 2011, when a Facebook page I anonymously created helped spark the Egyptian revolution. The Arab Spring revealed social media's greatest potential, but it also exposed its greatest shortcomings. The same tool that united us to topple dictators eventually tore us apart. I would like to share my own experience in using social media for activism, and talk about some of the challenges I have personally faced and what we could do about them.
 
-我说这番话的时候是2011年，那时我匿名创建了一个脸书主页，这个主页帮助点燃了埃及的革命。*阿拉伯之春* (*详见[维基百科](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%89%E4%BC%AF%E4%B9%8B%E6%98%A5)*) 揭示了社交媒体的巨大潜力，但也暴露了其最大的缺点。这个工具让我们团结起来推翻独裁者，可也是同样最终把我们撕裂。 我想分享我将社交媒体使用在行动主义 (*activism: a doctrine or practice that emphasizes direct vigorous action especially in support of or opposition to one side of a controversial issue. see [Merriam Webster](http://www.merriam-webster.com/dictionary/activism), 行为主义，激进主义* ) 的经验，并来讨论一些我个人面对的挑战，以及我们能够做些什么。
+我说这番话的时候是2011年，那时我匿名创建了一个脸书主页，这个主页帮助点燃了埃及的革命。*阿拉伯之春* (*详见[维基百科](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%89%E4%BC%AF%E4%B9%8B%E6%98%A5)*) 揭示了社交媒体的巨大潜力，同时也暴露了其最大的缺点。这个工具让我们团结起来推翻独裁者，可也同样最终把我们撕裂。 我想分享我自己的将社交媒体用于行动主义 (*activism: a doctrine or practice that emphasizes direct vigorous action especially in support of or opposition to one side of a controversial issue. see [Merriam Webster](http://www.merriam-webster.com/dictionary/activism), 行为主义，激进主义* ) 的经验，并讨论一些我个人面对的挑战，以及我们能够做些什么。
 
 
 
 > In the early 2000s, Arabs were flooding the web. Thirsty for knowledge, for opportunities, for connecting with the rest of the people around the globe, we escaped our frustrating political realities and lived a virtual, alternative life. Just like many of them, I was completely apolitical until 2009. At the time, when I logged into social media, I started seeing more and more Egyptians aspiring for political change in the country. It felt like I was not alone.
 
-21世纪早期， 阿拉伯人大批涌进互联网。 我们渴望知识、渴望机遇、渴望连结这个世界上的其他人，我们逃离了令人沮丧的政治现状，活在虚拟的、用以替代现实的人生。和他们中的很多人一样，我在零九年以前从来不关心政治。 可在那时，我登入社交媒体，开始看到越来越多的埃及人渴望着这个国家政治变革。我感到自己并不孤独。
+21世纪初期，阿拉伯人大批涌进互联网。 我们渴望知识、渴望机遇、渴望连结这个世界上的其他人，我们逃离了令人沮丧的政治现状，活在虚拟的、用以替代现实的人生中。和他们中的很多人一样，我在2009年以前从来不关心政治。 可在那时，我登入社交媒体，开始看到越来越多的埃及人渴望着这个国家政治变革。我感到自己并不孤独。
 
 
 
 > In June 2010, Internet changed my life forever. While browsing Facebook, I saw a photo, a terrifying photo, of a tortured, dead body of a young Egyptian guy. His name was Khaled Said. Khaled was a 29-year-old Alexandrian who was killed by police. I saw myself in his picture. I thought, "I could be Khaled."
 
-在2010年的6月， 网络永久改变了我的人生。 在浏览脸书网站时， 我看到一张照片，一张可怕的照片， 是一个年轻埃及男子的尸体 留有被折磨过的痕迹。 他的名字是卡勒德·赛义德。 哈勒德是一名39岁的亚历山大城居民， 他被警察杀害。 在他的照片中我看到了自己。 我想，“我也可能是哈勒德。”
+2010年6月，互联网永远地改变了我的人生。在浏览脸书时，我看到了一张照片，一张可怕的照片 - 一个被折磨过的埃及年轻人的尸体。他的名字是卡勒德·赛义德。 29岁的亚历山大人卡勒德是被警察杀害的。在他的照片中，我看到了自己。我想：“我也可能是卡勒德。”
 
 
 
