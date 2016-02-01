@@ -15,7 +15,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 昨天看了这个TED Talk，有很多想说的，不仅仅是因为他的话引发了我的很多共鸣，更多的是最近 Facebookd、Weibo 等社交网络因为大陆和台湾的事情乌烟瘴气，两边的网民骂来骂去，更多的人不经思考被别人或被媒体煽动着鼓舞着，信誓旦旦，大义凛然。我只是希望当人们在网上发布某些话的时候，都能多些思考，而不是随波逐流，沦为被利用的工具。
 
 
-*英文内容来自原网站脚本字幕（详见[此处](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en)）。The English content comes from the original subtitles and transcripts (see [here](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en)).*
+*英文内容来自原网站脚本字幕 ( 详见[此处](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) ) 。The English content comes from the original subtitles and transcripts (see [here](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en)).*
 
 
 以下正文：
@@ -28,7 +28,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > I said those words back in 2011, when a Facebook page I anonymously created helped spark the Egyptian revolution. The Arab Spring revealed social media's greatest potential, but it also exposed its greatest shortcomings. The same tool that united us to topple dictators eventually tore us apart. I would like to share my own experience in using social media for activism, and talk about some of the challenges I have personally faced and what we could do about them.
 
-我说这番话的时候是2011年，那时我匿名创建了一个脸书主页，这个主页帮助点燃了埃及的革命。*阿拉伯之春* (*详见[维基百科](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%89%E4%BC%AF%E4%B9%8B%E6%98%A5)*) 揭示了社交媒体的巨大潜力，同时也暴露了其最大的缺点。这个工具让我们团结起来推翻独裁者，可也同样最终把我们撕裂。我想分享我自己的将社交媒体用于行动主义 (*activism: a doctrine or practice that emphasizes direct vigorous action especially in support of or opposition to one side of a controversial issue. see [Merriam Webster](http://www.merriam-webster.com/dictionary/activism), 行为主义，激进主义* ) 的经验，并讨论一些我个人面对的挑战，以及我们能够做些什么。
+我说这番话的时候是2011年，那时我匿名创建了一个脸书主页，这个主页帮助点燃了埃及的革命。*阿拉伯之春* ( *详见[维基百科](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%89%E4%BC%AF%E4%B9%8B%E6%98%A5)* ) 揭示了社交媒体的巨大潜力，同时也暴露了其最大的缺点。这个工具让我们团结起来推翻独裁者，可也同样最终把我们撕裂。我想分享我自己的将社交媒体用于行动主义 ( *activism: a doctrine or practice that emphasizes direct vigorous action especially in support of or opposition to one side of a controversial issue. see [Merriam Webster](http://www.merriam-webster.com/dictionary/activism), 行为主义，激进主义* ) 的经验，并讨论一些我个人面对的挑战，以及我们能够做些什么。
 
 
 
@@ -46,7 +46,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > I could not sleep that night, and I decided to do something. I anonymously created a Facebook page and called it "We are all Khaled Said." In just three days, the page had over 100,000 people, fellow Egyptians who shared the same concern. Whatever was happening had to stop.
 
-那晚我无法入睡，我决定要做些事。我匿名创建了脸书页面并且称之为“*我们都是卡勒德·赛义德 ([We are all Khaled Said](https://www.facebook.com/elshaheeed.co.uk))*”。3天内，这个主页的追随者超过了10万人，十万有着同样担忧的埃及人。无论如何，这些正在发生的事必须停止。
+那晚我无法入睡，我决定要做些事。我匿名创建了脸书页面并且称之为“*我们都是卡勒德·赛义德 ( [We are all Khaled Said](https://www.facebook.com/elshaheeed.co.uk) )* ”。3天内，这个主页的追随者超过了10万人，十万有着同样担忧的埃及人。无论如何，这些正在发生的事必须停止。
 
 
 
@@ -58,7 +58,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > On January 14, 2011, Ben Ali fled out of Tunisia after mounting protests against his regime. I saw a spark of hope. Egyptians on social media were wondering, "If Tunisia did it, why can't we?" I posted an event on Facebook and called it "A Revolution against Corruption, Injustice and Dictatorship." I posed a question to the 300,000 users of the page at the time: "Today is the 14th of January. The 25th of January is Police Day. It's a national holiday. If 100,000 of us take to the streets of Cairo, no one is going to stop us. I wonder if we could do it."
 
-2011年1月14日，在大量的抗议人群反对他的政权之后，本·阿里逃离了突尼西亚。我看到了希望的火花。社交媒体上的埃及人想，“突尼西亚做到了，为什么我们不能呢？” 我在脸书上公布了一个活动 “*一场反对腐败、不公和独裁的革命 (A Revolution against Corruption, Injustice and Dictatorship)*”。我向30万的主页粉丝提出了一个问题：“今天是1月14日。1月25日是警察日，一个全国性的节日。如果我们有10万人走上开罗街头，没有人能够阻止我们。我不知道我们能不能做到。”
+2011年1月14日，在大量的抗议人群反对他的政权之后，本·阿里逃离了突尼西亚。我看到了希望的火花。社交媒体上的埃及人想，“突尼西亚做到了，为什么我们不能呢？” 我在脸书上公布了一个活动 “*一场反对腐败、不公和独裁的革命 ( A Revolution against Corruption, Injustice and Dictatorship )* ”。我向30万的主页粉丝提出了一个问题：“今天是1月14日。1月25日是警察日，一个全国性的节日。如果我们有10万人走上开罗街头，没有人能够阻止我们。我不知道我们能不能做到。”
 
 
 
