@@ -15,7 +15,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 昨天看了这个TED Talk，有很多想说的，不仅仅是因为他的话引发了我的很多共鸣，更多的是最近 Facebookd、Weibo 等社交网络因为大陆和台湾的事情乌烟瘴气，两边的网民骂来骂去，更多的人不经思考被别人或被媒体煽动着鼓舞着，信誓旦旦，大义凛然。我只是希望当人们在网上发布某些话的时候，都能多些思考，而不是随波逐流，沦为被利用的工具。
 
 
-*英文内容来自原网站脚本字幕 ( 详见[此处](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) ) 。The English content comes from the original subtitles and transcripts (see [here](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en)).*
+*英文内容来自原网站脚本字幕 ( 详见[此处](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) ) 。The English content comes from the original subtitles and transcripts ( see [here](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) ).*
 
 
 以下正文：
@@ -52,7 +52,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > I recruited my co-admin, Abdel Rahman Mansour. We worked together for hours and hours. We were crowdsourcing ideas from the people. We were engaging them. We were calling collectively for actions, and sharing news that the regime did not want Egyptians to know. The page became the most followed page in the Arab world. It had more fans than established media organizations and even top celebrities.
 
-我招募了我的共同管理者，阿卜杜勒·拉赫曼·曼苏尔。我们一起工作，夜以继日。我们群策群力，让人们参与进来。我们组织集体行动，分享政权当局不愿让埃及人知道的事情。这个主页变成了阿拉伯世界最受欢迎的脸书主页。它的粉丝比一些媒体甚至比当红明星的粉丝还要多。
+我招募了我的共同管理者，阿卜杜勒·拉赫曼·曼苏尔 ( *Abdel Rahman Mansour [Wiki Page](https://en.wikipedia.org/wiki/AbdelRahman_Mansour)* )。我们一起工作，夜以继日。我们群策群力，让人们参与进来。我们组织集体行动，分享政权当局不愿让埃及人知道的事情。这个主页变成了阿拉伯世界最受欢迎的脸书主页。它的粉丝比一些媒体甚至比当红明星的粉丝还要多。
 
 
 
