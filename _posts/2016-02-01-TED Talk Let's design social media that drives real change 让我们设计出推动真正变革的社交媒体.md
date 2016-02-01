@@ -24,13 +24,13 @@ The English content comes from original subtitles and transcripts (see [here](ht
 
 > I said those words back in 2011, when a Facebook page I anonymously created helped spark the Egyptian revolution. The Arab Spring revealed social media's greatest potential, but it also exposed its greatest shortcomings. The same tool that united us to topple dictators eventually tore us apart. I would like to share my own experience in using social media for activism, and talk about some of the challenges I have personally faced and what we could do about them.
 
-我说这番话的时候是2011年，那时我匿名创建了一个脸书主页，这个主页帮助点燃了埃及的革命。*阿拉伯之春* (*详见[维基百科](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%89%E4%BC%AF%E4%B9%8B%E6%98%A5)*) 揭示了社交媒体的巨大潜力，但也暴露了其最大的缺点。这个工具让我们团结起来推翻独裁者，可也是同样最终把我们撕裂。 我想分享我将社交媒体使用在行动主义(*activism: a doctrine or practice that emphasizes direct vigorous action especially in support of or opposition to one side of a controversial issue. see [Merriam Webster](http://www.merriam-webster.com/dictionary/activism), 行为主义，激进主义* ) 的经验，并来讨论一些我个人面对的挑战，以及我们能够做些什么。
+我说这番话的时候是2011年，那时我匿名创建了一个脸书主页，这个主页帮助点燃了埃及的革命。*阿拉伯之春* (*详见[维基百科](https://zh.wikipedia.org/wiki/%E9%98%BF%E6%8B%89%E4%BC%AF%E4%B9%8B%E6%98%A5)*) 揭示了社交媒体的巨大潜力，但也暴露了其最大的缺点。这个工具让我们团结起来推翻独裁者，可也是同样最终把我们撕裂。 我想分享我将社交媒体使用在行动主义 (*activism: a doctrine or practice that emphasizes direct vigorous action especially in support of or opposition to one side of a controversial issue. see [Merriam Webster](http://www.merriam-webster.com/dictionary/activism), 行为主义，激进主义* ) 的经验，并来讨论一些我个人面对的挑战，以及我们能够做些什么。
 
 
 
 > In the early 2000s, Arabs were flooding the web. Thirsty for knowledge, for opportunities, for connecting with the rest of the people around the globe, we escaped our frustrating political realities and lived a virtual, alternative life. Just like many of them, I was completely apolitical until 2009. At the time, when I logged into social media, I started seeing more and more Egyptians aspiring for political change in the country. It felt like I was not alone.
 
-在21世纪第一个十年的早期， 阿拉伯人在网上的活动蔓延开来。 渴望知识、机遇 连结世界上的其他人，我们逃离了沮丧的政治现实 活在虚拟的，用以替代现实的人生。 和他们中的很多人一样，在2009年前， 我完全没有任何政治立场。 那时，我登入社交媒体， 我开始看到越来越多的埃及人 呼吁这个国家政治变革。我感到自己并不是唯一的那个。
+21世纪早期， 阿拉伯人大批涌进互联网。 我们渴望知识、渴望机遇、渴望连结这个世界上的其他人，我们逃离了令人沮丧的政治现状，活在虚拟的、用以替代现实的人生。和他们中的很多人一样，我在零九年以前从来不关心政治。 可在那时，我登入社交媒体，开始看到越来越多的埃及人渴望着这个国家政治变革。我感到自己并不孤独。
 
 
 
