@@ -12,10 +12,10 @@ comments: true # enable disqus comment
 TED Talk: [Let's design social media that drives real change](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change) given by Wael Ghonim ( *[Wiki Page](https://en.wikipedia.org/wiki/Wael_Ghonim) and [Twitter Page](https://twitter.com/Ghonim)* ).
 
 
-昨天看了这个TED Talk，有很多想说的，不仅仅是因为他的话引发了我的很多共鸣，更多的是最近 Facebookd、Weibo 等社交网络因为大陆和台湾的事情乌烟瘴气，两边的网民骂来骂去，更多的人不经思考被别人或被媒体煽动着鼓舞着，信誓旦旦，大义凛然。我只是希望当人们在网上发布某些话的时候，都能多些思考，而不是随波逐流，沦为被利用的工具。
+昨天看了这个TED Talk，有很多想说的，不仅仅是因为他的话引发了我的很多共鸣，更多的是最近 Facebookd、Weibo 等社交网络因为大陆和台湾的事情乌烟瘴气，两边的网民骂来骂去，更多的人不经思考被别人或被媒体煽动着鼓舞着，信誓旦旦，大义凛然。我只是希望当人们在网上发布某些话的时候，都能多些思考，而不是随波逐流，沦为被利用的工具。对一些国家来说，言论自由就像是一个脆弱的、被众人觊觎的悖论：一方面，人民的整体素质无法支撑言论自由带来的巨大冲击，很多人无法明白自己言论的自由意味着什么，无法理解自由的言论背后有着多大的力量，更脆弱的、不堪一击地被各种势力牵着鼻子；另一方面，如果不给予言论的自由，人民有永远无法从痛苦、自我反省和自我认知中学习如何行使自己的权利。
 
 
-*英文内容来自原网站脚本字幕 ( 详见[此处](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) ) 。The English content comes from the original subtitles and transcripts ( see [here](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) ).*
+*英文内容来自原网站脚本字幕 ( 详见[此处](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) ) ，中文部分不完全借鉴了原网站的简体中文版字幕 ( 详见[此处](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) )。The English content comes from the original subtitles and transcripts ( see [here](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) ). The Chinese content partially refers to the simplied Chinese subtitles and transcripts ( see [here](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) )*
 
 
 以下正文：
@@ -52,7 +52,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > I recruited my co-admin, Abdel Rahman Mansour. We worked together for hours and hours. We were crowdsourcing ideas from the people. We were engaging them. We were calling collectively for actions, and sharing news that the regime did not want Egyptians to know. The page became the most followed page in the Arab world. It had more fans than established media organizations and even top celebrities.
 
-我招募了我的共同管理者，阿卜杜勒·拉赫曼·曼苏尔 ( *Abdel Rahman Mansour [Wiki Page](https://en.wikipedia.org/wiki/AbdelRahman_Mansour)* )。我们一起工作，夜以继日。我们群策群力，让人们参与进来。我们组织集体行动，分享政权当局不愿让埃及人知道的事情。这个主页变成了阿拉伯世界最受欢迎的脸书主页。它的粉丝比一些媒体甚至比当红明星的粉丝还要多。
+我招募了我的共同管理者，阿卜杜勒·拉赫曼·曼苏尔 ( *Abdel Rahman Mansour, [Wiki Page](https://en.wikipedia.org/wiki/AbdelRahman_Mansour)* )。我们一起工作，夜以继日。我们群策群力，让人们参与进来。我们组织集体行动，分享政府当局不愿让埃及人知道的事情。这个主页变成了阿拉伯世界最受欢迎的脸书主页。它的粉丝比一些媒体甚至比当红明星的粉丝还要多。
 
 
 
@@ -70,25 +70,25 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > Then came the consequences. A few hours before the regime cut off the Internet and telecommunications, I was walking in a dark street in Cairo, around midnight. I had just tweeted, "Pray for Egypt. The government must be planning a massacre tomorrow."
 
-随后，后果出现了， 在政府切断互联网和电信的 几个小时以前， 深夜时分，我在开罗 一条黑暗的街道上行走。 我刚发了一条推特， “为埃及祈祷， 政府肯定计划明天采取大规模屠杀。”
+后果还是出现了。在政府当局切断互联网和通讯的几个小时前，夜深人静，我走在开罗的一条黑暗的街道上。我刚发了一条推特，“*为埃及祈祷。政府肯定计划明天大屠杀。( Pray for Egypt. The government must be planning a massacre tomorrow. )* ”
 
 
 
 > I was hit hard on my head. I lost my balance and fell down, to find four armed men surrounding me. One covered my mouth and the others paralyzed me. I knew I was being kidnapped by state security.
 
-我的头被重重击打了。 我失去平衡跌倒在地上， 发现四个全副武装的男子 围绕着我。 一个捂住我的嘴巴 其余的让我失去行动能力。 我知道自己被国安局绑架了。
+我的头被重重击打。我失去平衡倒在地上，发现四个全副武装的男人围绕着我。一个捂住我的嘴巴，其余的让我失去行动能力。我知道自己被国家安全局绑架了。
 
 
 
 > I found myself in a cell, handcuffed, blindfolded. I was terrified. So was my family, who started looking for me in hospitals, police stations and even morgues.
 
-我发现自己在监狱里， 带着手铐，被蒙住眼睛。 我很害怕。 我的家人也很害怕， 他们开始寻找我 在医院，在警察局， 甚至是停尸房。
+我发现自己在监狱里，带着手铐，蒙着眼睛。我很害怕。我的家人也很害怕，他们开始在医院、在警局、甚至是停尸房寻找我。
 
 
 
 > After my disappearance, a few of my fellow colleagues who knew I was the admin of the page told the media about my connection with that page, and that I was likely arrested by state security. My colleagues at Google started a search campaign trying to find me, and the fellow protesters in the square demanded my release.
 
-在我消失后， 那些知道我是页面管理员的同事 告诉媒体我与那个页面的关联， 我很有可能被国安局监禁了。 我在Google的同事开始了搜索运动， 想要寻找我的下落， 很多抗议者在广场呼吁 我被释放。
+我消失后，那些知道我是页面管理员的同事 告诉媒体我与那个页面的关联， 我很有可能被国安局监禁了。 我在Google的同事开始了搜索运动， 想要寻找我的下落， 很多抗议者在广场呼吁 我被释放。
 
 
 
