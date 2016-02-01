@@ -24,7 +24,7 @@ The English content comes from original subtitles and transcripts (see [here](ht
 
 > I said those words back in 2011, when a Facebook page I anonymously created helped spark the Egyptian revolution. The Arab Spring revealed social media's greatest potential, but it also exposed its greatest shortcomings. The same tool that united us to topple dictators eventually tore us apart. I would like to share my own experience in using social media for activism, and talk about some of the challenges I have personally faced and what we could do about them.
 
-我说这番话的时候是2011年，那时我匿名创建了一个脸书主页，这个主页引发了埃及的革命。*阿拉伯之春* 揭示了社交媒体的巨大潜力， 但同时也暴露了其最大缺点。 这个我们让我们集结在一起 推翻独裁者的工具 最终也将我们撕裂。 我想分享我使用社交媒体 来推动社会变革的经验， 来讨论我面对的一些挑战 以及我们能够做些什么。
+我说这番话的时候是2011年，那时我匿名创建了一个脸书主页，这个主页引发了埃及的革命。*阿拉伯之春* 揭示了社交媒体的巨大潜力，但也暴露了其最大的缺点。这个我们让我们集结在一起推翻独裁者的工具，最终也将我们撕裂。 我想分享我将社交媒体使用在行动主义的经验，并来讨论一些我个人面对的挑战，以及我们能够做些什么。
 
 
 
