@@ -39,7 +39,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > In June 2010, Internet changed my life forever. While browsing Facebook, I saw a photo, a terrifying photo, of a tortured, dead body of a young Egyptian guy. His name was Khaled Said. Khaled was a 29-year-old Alexandrian who was killed by police. I saw myself in his picture. I thought, "I could be Khaled."
 
-2010年6月，互联网永远地改变了我的人生。在浏览脸书时，我看到了一张照片，一张可怕的照片 ---- 一个被折磨过的埃及年轻人的尸体。他的名字是卡勒德·赛义德。 29岁的亚历山大人卡勒德是被警察杀害的。在他的照片中，我看到了自己。我想：“我也可能是卡勒德。”
+2010年6月，互联网永远地改变了我的人生。在浏览脸书时，我看到了一张照片，一张可怕的照片 --- 一个被折磨过的埃及年轻人的尸体。他的名字是卡勒德·赛义德。 29岁的亚历山大人卡勒德是被警察杀害的。在他的照片中，我看到了自己。我想：“我也可能是卡勒德。”
 
 
 
@@ -51,12 +51,12 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > I recruited my co-admin, Abdel Rahman Mansour. We worked together for hours and hours. We were crowdsourcing ideas from the people. We were engaging them. We were calling collectively for actions, and sharing news that the regime did not want Egyptians to know. The page became the most followed page in the Arab world. It had more fans than established media organizations and even top celebrities.
 
-我招募了我的管理伙伴，阿德哈曼·曼索。我们长时间一起工作。我们把人们的想法集中起来，让人们参与进来。我们组织集体行动，分享当局不愿让埃及人知道的事。这个页面成为阿拉伯世界最受欢迎的页面。页面的粉丝比现有的媒体要多，甚至比当红明星还要多。
+我招募了我的共同管理者，阿卜杜勒·拉赫曼·曼苏尔。我们一起工作，夜以继日。我们群策群力，让人们参与进来。我们组织集体行动，分享政权当局不愿让埃及人知道的事情。这个主页变成了阿拉伯世界最受欢迎的脸书主页。它的粉丝比一些媒体甚至比当红明星的粉丝还要多。
 
 
 > On January 14, 2011, Ben Ali fled out of Tunisia after mounting protests against his regime. I saw a spark of hope. Egyptians on social media were wondering, "If Tunisia did it, why can't we?" I posted an event on Facebook and called it "A Revolution against Corruption, Injustice and Dictatorship." I posed a question to the 300,000 users of the page at the time: "Today is the 14th of January. The 25th of January is Police Day. It's a national holiday. If 100,000 of us take to the streets of Cairo, no one is going to stop us. I wonder if we could do it."
 
-在2011年1月14日， 本·阿里逃离了突尼西亚， 在大量的抗议人群反对他的政权之后。 我看到了一丝希望。社交媒体上的埃及人想， “突尼西亚做到了，为什么我们不能呢？” 我在脸书上公布了一个活动 “反对腐败、不公正和独裁的革命。” 我向那时页面的30万粉丝提出问题： “今天是1月14日。 1月25日是警察日。 是一个世界性的节日。 如果我们中10万人走上 开罗街头， 没人能阻止我们。 我不知道我们能不能做到。”
+2011年1月14日，在大量的抗议人群反对他的政权之后，本·阿里逃离了突尼西亚。 我看到了希望的火花。社交媒体上的埃及人想，“突尼西亚做到了，为什么我们不能呢？” 我在脸书上公布了一个活动 “*一场反对腐败、不公和独裁的革命 (A Revolution against Corruption, Injustice and Dictatorship)*”。我向30万的主页粉丝提出了一个问题：“今天是1月14日。 1月25日是警察日，一个全国性的节日。如果我们有10万人走上开罗街头，没有人能够阻止我们。我不知道我们能不能做到。”
 
 
 > In just a few days, the invitation reached over a million people, and over 100,000 people confirmed attendance. Social media was crucial for this campaign. It helped a decentralized movement arise. It made people realize that they were not alone. And it made it impossible for the regime to stop it. At the time, they didn't even understand it. And on January 25th, Egyptians flooded the streets of Cairo and other cities, calling for change, breaking the barrier of fear and announcing a new era.
@@ -144,7 +144,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 但是如果我更加关注质量呢？ 哪个更重要呢： 你写的帖子的总阅读量， 还是是谁在阅读，谁有更大的影响力 在阅读你写的帖子？ 为什么不能创造更大的动机 让人们参与对话， 而非一直宣传观点？ 或是奖励人们阅读 和评论那些他们不同意的观点？ 同时，让改变自己的观点 变成社会所接纳的行为， 或者可能的话，奖励这样的行为？ 如果我们有一个模型 可以显示有多少人改变他们的观点， 成为社交媒体经验的一部分？ 如果我能追踪多少人改变了想法， 我可能会写得更认真仔细， 试图更有说服力， 而不是在那些和我观点相同的人那里 获得“赞”，因为我只是在 确认他们的偏见。
 
 
-> >We also need to think about effective crowdsourcing mechanisms, to fact-check widely spread online information, and reward people who take part in that. In essence, we need to rethink today's social media ecosystem and redesign its experiences to reward thoughtfulness, civility and mutual understanding.
+> We also need to think about effective crowdsourcing mechanisms, to fact-check widely spread online information, and reward people who take part in that. In essence, we need to rethink today's social media ecosystem and redesign its experiences to reward thoughtfulness, civility and mutual understanding.
 
 我们也需要思考 有效地众包机制， 来查实广为传播的网络信息， 奖励那些参与进来的人。 从本质上讲，我们需要重新思考 今天的社交媒体系统， 重新设计它的经验 来奖励深思、礼貌和互相了解。
 
@@ -164,11 +164,11 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 五年前，我说， “如果你想要解放社会， 你需要互联网。”
 
 
->Today, I believe if we want to liberate society, we first need to liberate the Internet.
+> Today, I believe if we want to liberate society, we first need to liberate the Internet.
 
 今天，我相信 如果我们想要解放社会， 我们首先要解放互联网。
 
 
->Thank you very much.
+> Thank you very much.
 
 非常感谢。
