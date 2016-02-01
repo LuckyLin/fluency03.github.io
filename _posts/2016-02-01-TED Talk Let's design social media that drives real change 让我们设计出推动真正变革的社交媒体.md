@@ -36,13 +36,13 @@ The English content comes from original subtitles and transcripts (see [here](ht
 
 > In June 2010, Internet changed my life forever. While browsing Facebook, I saw a photo, a terrifying photo, of a tortured, dead body of a young Egyptian guy. His name was Khaled Said. Khaled was a 29-year-old Alexandrian who was killed by police. I saw myself in his picture. I thought, "I could be Khaled."
 
-2010年6月，互联网永远地改变了我的人生。在浏览脸书时，我看到了一张照片，一张可怕的照片 - 一个被折磨过的埃及年轻人的尸体。他的名字是卡勒德·赛义德。 29岁的亚历山大人卡勒德是被警察杀害的。在他的照片中，我看到了自己。我想：“我也可能是卡勒德。”
+2010年6月，互联网永远地改变了我的人生。在浏览脸书时，我看到了一张照片，一张可怕的照片 ---- 一个被折磨过的埃及年轻人的尸体。他的名字是卡勒德·赛义德。 29岁的亚历山大人卡勒德是被警察杀害的。在他的照片中，我看到了自己。我想：“我也可能是卡勒德。”
 
 
 
 > I could not sleep that night, and I decided to do something. I anonymously created a Facebook page and called it "We are all Khaled Said." In just three days, the page had over 100,000 people, fellow Egyptians who shared the same concern. Whatever was happening had to stop.
 
-那晚我无法入睡， 我决定要做些事。 我匿名创建了脸书页面 名叫“我们都是哈勒德·赛义德。” 3天内，页面追随者超过了10万人， 他们是有着同样担忧的埃及人。 正在发生的这些事必须停止。
+那晚我无法入睡，我决定要做些事。我匿名创建了脸书页面并且称之为“我们都是卡勒德·赛义德 ([We are all Khaled Said](https://www.facebook.com/elshaheeed.co.uk))”。 3天内，页面追随者超过了10万人， 他们是有着同样担忧的埃及人。 正在发生的这些事必须停止。
 
 
 
