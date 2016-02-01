@@ -72,7 +72,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > Then came the consequences. A few hours before the regime cut off the Internet and telecommunications, I was walking in a dark street in Cairo, around midnight. I had just tweeted, "Pray for Egypt. The government must be planning a massacre tomorrow."
 
-后果还是出现了。在政府当局切断互联网和通讯的几个小时前，夜深人静，我走在开罗的一条黑暗的街道上。我刚发了一条推特，“*为埃及祈祷。政府肯定计划明天大屠杀。( Pray for Egypt. The government must be planning a massacre tomorrow. )* ”
+后果还是出现了。在政府当局切断互联网和通讯的几个小时前，夜深人静，我走在开罗的一条黑暗的街道上。我刚发了一条推特，“*为埃及祈祷。政府肯定在计划着明天的一场大屠杀。( Pray for Egypt. The government must be planning a massacre tomorrow. )* ”
 
 
 
@@ -108,7 +108,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > That day I made a very hard decision. I decided to go silent, completely silent. It was a moment of defeat. I stayed silent for more than two years, and I used the time to reflect on everything that happened, trying to understand why did it happen. It became clear to me that while it's true that polarization is primarily driven by our human behavior, social media shapes this behavior and magnifies its impact. Say you want to say something that is not based on a fact, pick a fight or ignore someone that you don't like. These are all natural human impulses, but because of technology, acting on these impulses is only one click away.
 
-那天我做出了一个艰难的决定。我决定沉默，完全沉默。那是最为挫败的时刻。我沉默了两年之多，我花时间反思过去发生的一切，想要理解为什么这一切会发生。我逐渐理解到 --- 两极分化最初的确主要是由我们的人性驱使的，可社交媒体塑造这个行为，并且放大了它的影响。比如说，你想要说一些并不是基于事实的话，挑起斗争或是忽略某个你讨厌的人。这都是人类天生的冲动，但因为科技，这些冲动真正发酵只需要一个点击而已。
+那天我做出了一个艰难的决定。我决定沉默，完全沉默。那是最为挫败的时刻。我沉默了两年之多，我花时间反思过去发生的一切，想要理解为什么这一切会发生。我逐渐理解到 --- 两极分化最初的确主要是由我们的人性驱使的，可社交媒体塑造了这个行为，并且放大了它的影响。比如说，你想要说一些并不是基于事实的话，挑起斗争或是忽略某个你讨厌的人。这都是人类天生的冲动，但因为科技，这些冲动真正的发酵只需要一个点击而已。
 
 
 
@@ -120,7 +120,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > First, we don't know how to deal with rumors. Rumors that confirm people's biases are now believed and spread among millions of people.
 
-首先，我们不知道如何应对谣言。 那些展示人们偏见的谣言 被相信，并向数百万人群传播。
+首先，我们不知道如何应对谣言。那些展示人们偏见的谣言 被相信，并向数百万人群传播。
 
 
 
