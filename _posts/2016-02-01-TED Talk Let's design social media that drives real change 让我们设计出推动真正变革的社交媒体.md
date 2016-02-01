@@ -90,19 +90,19 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > After my disappearance, a few of my fellow colleagues who knew I was the admin of the page told the media about my connection with that page, and that I was likely arrested by state security. My colleagues at Google started a search campaign trying to find me, and the fellow protesters in the square demanded my release.
 
-我消失后，那些知道我是页面管理员的同事 告诉媒体我与那个页面的关联， 我很有可能被国安局监禁了。 我在Google的同事开始了搜索运动， 想要寻找我的下落， 很多抗议者在广场呼吁 我被释放。
+我消失后，那些知道我是脸书主页管理员的同事告诉了媒体我与那个主页的关联，并且我很有可能被国家安全局监禁了。我在谷歌的同事开始了搜寻行动，想要找到我的下落，并且有很多抗议者在广场呼吁我的释放。
 
 
 
-> After 11 days of complete darkness, I was set free. And three days later, Mubarak was forced to step down. It was the most inspiring and empowering moment of my life. It was a time of great hope.Egyptians lived a utopia for 18 days during the revolution. They all shared the belief that we could actually live together despite our differences, that Egypt after Mubarak would be for all.
+> After 11 days of complete darkness, I was set free. And three days later, Mubarak was forced to step down. It was the most inspiring and empowering moment of my life. It was a time of great hope. Egyptians lived a utopia for 18 days during the revolution. They all shared the belief that we could actually live together despite our differences, that Egypt after Mubarak would be for all.
 
-在完全黑暗的11天后， 我自由了。 又过了3天， 穆巴拉克被迫下台。 那是我人生最激动的时刻。 那是怀抱伟大希望的时刻。 在革命时的18天里， 埃及人活在乌托邦中。 他们有着同样的信仰 大家可以求同存异地 生活在一起， 穆巴拉克之后的埃及 将是和平包容的国度。
+在完全黑暗的11天后，我自由了。又过了3天，穆巴拉克被迫下台。那是我人生最激动、最精神振奋的时刻。 那是怀抱伟大希望的时刻。埃及人曾活在18天革命的乌托邦中。他们共享同样的信仰 --- 我们本可以求同存异地生活在一起，穆巴拉克之后的埃及将是和平包容的国度。
 
 
 
 > But unfortunately, the post-revolution events were like a punch in the gut. The euphoria faded, we failed to build consensus, and the political struggle led to intense polarization. Social media only amplified that state, by facilitating the spread of misinformation, rumors, echo chambers and hate speech. The environment was purely toxic. My online world became a battleground filled with trolls, lies, hate speech.I started to worry about the safety of my family. But of course, this wasn't just about me. The polarization reached its peak between the two main powers -- the army supporters and the Islamists. People in the center, like me, started feeling helpless. Both groups wanted you to side with them; you were either with them or against them. And on the 3rd of July 2013, the army ousted Egypt's first democratically elected president, after three days of popular protest that demanded his resignation.
 
-但不幸的是， 后革命时代的事件 就像胸口挨的重拳。 欢快逐渐消失， 我们未能成功达成共识， 政治斗争演变成了强烈的两极化。 社交媒体只是放大言论， 帮助传播错误的信息、谣言， 重复的口号和仇恨言论。环境完全被毒害了。 我的网络世界变成了战场 充斥着轮番大声高唱的谎言和仇恨言论。 我开始担心我家人的安危。 但显然，这并不只是针对我。 两极分化在两个主要势力对抗下 到达了巅峰 军队支持者和伊斯兰教主义者。 在中间的人们，和我一样， 开始感到无助。 两个集团都希望你站在他们一边； 你要么是伙伴，要么是敌人。 在2013年7月3日， 在持续三天的公众抗议 呼吁他下台之后， 军队驱赶了埃及历史上 第一个民主选举产生的总统。
+但不幸的是，后革命时代的事件 就像胸口挨的重拳。 欢快逐渐消失， 我们未能成功达成共识， 政治斗争演变成了强烈的两极化。 社交媒体只是放大言论， 帮助传播错误的信息、谣言， 重复的口号和仇恨言论。环境完全被毒害了。 我的网络世界变成了战场 充斥着轮番大声高唱的谎言和仇恨言论。 我开始担心我家人的安危。 但显然，这并不只是针对我。 两极分化在两个主要势力对抗下 到达了巅峰 军队支持者和伊斯兰教主义者。 在中间的人们，和我一样， 开始感到无助。 两个集团都希望你站在他们一边； 你要么是伙伴，要么是敌人。 在2013年7月3日， 在持续三天的公众抗议 呼吁他下台之后， 军队驱赶了埃及历史上 第一个民主选举产生的总统。
 
 
 
