@@ -12,7 +12,6 @@ comments: true # enable disqus comment
 TED Talk: [Let's design social media that drives real change](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change).
 
 The English content comes from original subtitles and transcripts (see [here](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en)).
-
 英文内容来自原网站字幕（见[此处](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en)）。
 
 
