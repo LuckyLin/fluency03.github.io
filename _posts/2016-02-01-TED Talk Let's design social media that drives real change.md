@@ -33,11 +33,13 @@ Wael Ghonim had his first TED Talk --- --- [Inside the Egyptian revolution](http
 
 
 
-在此引用 Wael Ghonim [Twitter](https://twitter.com/Ghonim) 主页的一句话：
+Here, I quote a saying from the wallpaper of Wael Ghonim' [Twitter](https://twitter.com/Ghonim) page as following:
 
 > Success is not final, failure is not fatal. It is the courage to continue that counts.       ------ Winston Churchill
 
-成功不是最终，失败并不致命。重要的是坚持的勇气。        ------ 温斯顿·丘吉尔
+在此引用 Wael Ghonim [Twitter](https://twitter.com/Ghonim) 主页的一句话：
+
+> 成功不是最终，失败并不致命。重要的是坚持的勇气。        ------ 温斯顿·丘吉尔
 
 
 -----------------------------------------------------------------------------------
