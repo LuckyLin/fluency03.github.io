@@ -28,7 +28,7 @@ Wael Ghonim 四五年前做过第一个 TED Talk --- --- [Inside the Egyptian re
 
 
 
-Wael Ghonim had his first TED Talk --- --- [Inside the Egyptian revolution](https://www.ted.com/talks/wael_ghonim_inside_the_egyptian_revolution) about 4 - 5 years ago.
+Wael Ghonim had his first TED Talk --- --- [Inside the Egyptian revolution](https://www.ted.com/talks/wael_ghonim_inside_the_egyptian_revolution) about 4 - 5 years ago. By comparing his two videos, it is clear to find out his rational thinking. His thought was richer, further, deeper and more thoroughly. It was such varying of rationality that perfectly interpreted that Internet Activist is not Internet Mod. Unfortunately,  
 
 
 
