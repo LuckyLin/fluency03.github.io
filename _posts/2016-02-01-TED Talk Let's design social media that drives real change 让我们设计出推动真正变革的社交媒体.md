@@ -18,13 +18,15 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 引用 Wael Ghonim [Twitter](https://twitter.com/Ghonim) 主页背景壁纸的一句话：
 
-*Success is not final, failure is not fatal. It is the courage to continue that counts.       ------ Winston Churchill*
+> Success is not final, failure is not fatal. It is the courage to continue that counts.       ------ Winston Churchill
 
+
+-----------------------------------------------------------------------------------
+
+以下正文：
 
 *英文内容来自原网站脚本字幕 ( 详见[此处](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) ) ，中文部分不完全借鉴了原网站的简体中文版字幕 ( 详见[此处](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=zh-cn) )。The English content comes from the original subtitles and transcripts ( see [here](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) ). The Chinese content partially refers to the simplied Chinese subtitles and transcripts ( see [here](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=zh-cn) )*
 
-
-以下正文：
 
 > I once said, "If you want to liberate a society, all you need is the Internet." I was wrong.
 
