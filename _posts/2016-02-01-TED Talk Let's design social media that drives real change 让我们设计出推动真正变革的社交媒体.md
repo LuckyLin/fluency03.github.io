@@ -20,6 +20,8 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > Success is not final, failure is not fatal. It is the courage to continue that counts.       ------ Winston Churchill
 
+成功不是最终，失败并不致命。重要的是坚持的勇气。        ------ 温斯顿·丘吉尔
+
 
 -----------------------------------------------------------------------------------
 
