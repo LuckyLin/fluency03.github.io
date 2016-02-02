@@ -162,7 +162,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > But what if we put more focus on quality? What is more important: the total number of readers of a post you write, or who are the people who have impact that read what you write? Couldn't we just give people more incentives to engage in conversations, rather than just broadcasting opinions all the time? Or reward people for reading and responding to views that they disagree with? And also, make it socially acceptable that we change our minds, or probably even reward that? What if we have a matrix that says how many people changed their minds, and that becomes part of our social media experience? If I could track how many people are changing their minds, I'd probably write more thoughtfully, trying to do that, rather than appealing to the people who already agree with me and "liking" because I just confirmed their biases.
 
-但是如果我更加关注质量呢？ 到底哪个更重要：你写的帖子的总阅读量，还是是谁在阅读你的帖子，那些有更大的影响力的人在阅读你写的帖子？ 为什么不能创造更大的动机 让人们参与对话， 而非一直宣传观点？ 或是奖励人们阅读 和评论那些他们不同意的观点？ 同时，让改变自己的观点 变成社会所接纳的行为， 或者可能的话，奖励这样的行为？ 如果我们有一个模型 可以显示有多少人改变他们的观点， 成为社交媒体经验的一部分？ 如果我能追踪多少人改变了想法， 我可能会写得更认真仔细， 试图更有说服力， 而不是在那些和我观点相同的人那里 获得“赞”，因为我只是在 确认他们的偏见。
+但是如果我更加关注质量呢？ 到底哪个更重要：你写的帖子的总阅读量，还是是谁在阅读你的帖子，那些有更大的影响力的人在阅读你写的帖子？ 我们为什么不能创造更大的动机，让人们参与对话，而非一直宣传观点？ 或是奖励人们阅读和评论那些他们不同意的观点？ 同时，让改变自己的观点变成社会所接纳的行为，或者可能的话，甚至奖励这样的行为？ 如果我们有一个模型矩阵，可以说明有多少人改变他们的观点，成为社交媒体体验的一部分？ 如果我能追踪多少人改变了想法，我可能会写得更认真仔细，试图更有说服力，而不是在那些和我观点相同的人那里获得“赞”，因为我只是在认同和巩固他们的偏见。
 
 
 
