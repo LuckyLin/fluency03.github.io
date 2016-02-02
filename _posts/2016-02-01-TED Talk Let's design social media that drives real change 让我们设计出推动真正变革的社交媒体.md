@@ -126,27 +126,27 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > Second, we create our own echo chambers. We tend to only communicate with people that we agree with, and thanks to social media, we can mute, un-follow and block everybody else.
 
-第二，我们创建了自己的回音室。 我们往往只和那些 与我们观点相同的人沟通， 感谢社交媒体， 我们能够静音，取消关注 和屏蔽其他人。
+第二，我们建立了我们自己的回音室。我们往往趋向于只和那些与我们观点相同的人沟通，并且，感谢社交媒体，我们能够沉默，取消关注 和屏蔽其他人。
 
 
 
 > Third, online discussions quickly descend into angry mobs. All of us probably know that. It's as if we forget that the people behind screens are actually real people and not just avatars.
 
-第三，线上讨论 很快演变成愤怒的暴民。 我们所有人可能都了解这些。 这就如同我们忘记了 屏幕里面的人是真实的人类 而不是阿凡达。
+第三，线上讨论很快就会演变成愤怒的暴民。我们所有人可能都了解这些。这就如同我们忘记了屏幕后面的人是真实的人类而不是一堆外星人。
 
 
 
 > Fourth, it became really hard to change our opinions. Because of the speed and brevity of social media, we are forced to jump to conclusions and write sharp opinions in 140 characters about complex world affairs. And once we do that, it lives forever on the Internet, and we are less motivated to change these views, even when new evidence arises.  
 
-第四，改变自己的观点 变得很困难， 因为社交媒体快速和简短的特征， 我们很快跳到结论 在140个字中书写 有关复杂全球时政的 犀利的观点。 当我们这样做的时候， 这些观点永远存在于互联网上， 我们缺少改变这些观点的动力， 即便是在新证据出现的情况下。
+第四，改变自己的观点变得真的很困难。因为社交媒体快速和简短的特征，我们被迫很快跳到结论，在140个字中书写有关复杂全球时政的犀利观点。当我们这样做的时候，这些观点永远存在于互联网上，可我们缺少改变这些观点的动力，即便是在新证据出现的情况下。
 
 
 
 > Fifth -- and in my point of view, this is the most critical -- today, our social media experiences are designed in a way that favors broadcasting over engagements, posts over discussions, shallow comments over deep conversations. It's as if we agreed that we are here to talk at each other instead of talking with each other.
 
-第五-- 在我看来， 这是最最重要的-- 今天，我们的社交媒体经验 被设计为 利于传播而不是参与， 利于张贴而不是讨论， 利于浅薄的观点而不是深度的讨论。 就好像我们认为 自己是来这里对着他人说教 而不是与他人对话。
+第五，在我看来，这是最最重要的。今天，我们的社交媒体经验被设计为利于传播而不容易参与，利于发布而不利于讨论，利于浅薄的观点而不是深度的讨论。就好像我们认同自己是来这里对着他人说教而不是与他人对话。
 
-
+TO DO
 
 > I witnessed how these critical challenges contributed to an already polarized Egyptian society, but this is not just about Egypt. Polarization is on the rise in the whole world. We need to work hard on figuring out how technology could be part of the solution, rather than part of the problem.
 
