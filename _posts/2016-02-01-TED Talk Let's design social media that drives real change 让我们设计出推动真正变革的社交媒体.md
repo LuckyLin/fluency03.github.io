@@ -16,6 +16,10 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 对一些国家来说，言论自由就像是一个脆弱的、被众人觊觎的悖论：一方面，人民的整体素质无法支撑言论自由带来的巨大冲击，很多人无法明白自己言论的自由意味着什么，无法理解自由的言论背后有着多大的力量，更加脆弱地、不堪一击地被各种势力牵着鼻子；另一方面，如果不给予言论的自由，人民有永远无法从痛苦、自我反省和自我认知中学习如何行使自己的权利。
 
+引用 Wael Ghonim [Twitter](https://twitter.com/Ghonim) 主页背景壁纸的一句话：
+
+*Success is not final, failure is not fatal. It is the courage to continue that counts.       ------ Winston Churchill*
+
 
 *英文内容来自原网站脚本字幕 ( 详见[此处](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) ) ，中文部分不完全借鉴了原网站的简体中文版字幕 ( 详见[此处](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=zh-cn) )。The English content comes from the original subtitles and transcripts ( see [here](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=en) ). The Chinese content partially refers to the simplied Chinese subtitles and transcripts ( see [here](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change/transcript?language=zh-cn) )*
 
