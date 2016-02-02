@@ -16,7 +16,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 对一些国家来说，言论自由就像是一个脆弱的、被众人觊觎的悖论：一方面，人民的整体素质无法支撑言论自由带来的巨大冲击，很多人无法明白自己言论的自由意味着什么，无法理解自由的言论背后有着多大的力量，更加脆弱地、不堪一击地被各种势力牵着鼻子；另一方面，如果不给予言论的自由，人民有永远无法从痛苦、自我反省和自我认知中学习如何行使自己的权利。
 
-这个是 Wael Ghonim 四五年前做的第一个 TED Talk --- --- [Inside the Egyptian revolution](https://www.ted.com/talks/wael_ghonim_inside_the_egyptian_revolution)。看完这个视频，再对比他现在的视频，可以看出他思想的转变，可以看出他思考的深入。想的更多，想得更远，想得更深，更彻底。从这种理性的变化中可以看出：Internet Activist 并不是 Internet Mob。Wael Ghonim 相信，当我们可以把文明礼仪和深思的对话还给互联网时，它将是人类互联、人道互联最强大的平台， ( *Wael Ghonim believes that the Internet can be the most powerful platform for connecting humanity, if we can bring civility and thoughtful conversations back to it.* )
+这个是 Wael Ghonim 四五年前做的第一个 TED Talk --- --- [Inside the Egyptian revolution](https://www.ted.com/talks/wael_ghonim_inside_the_egyptian_revolution)。看完这个视频，再对比他现在的视频，可以看出他思想的转变，可以看出他思考的深入。想的更多，想得更远，想得更深，更彻底。从这种理性的变化中可以看出：Internet Activist 并不是 Internet Mob。Wael Ghonim 相信，当我们可以把文明礼仪和深思的对话还给互联网时，它将是人类互联、人道互联最强大的平台。 ( *Wael Ghonim believes that the Internet can be the most powerful platform for connecting humanity, if we can bring civility and thoughtful conversations back to it.* )
 
 引用 Wael Ghonim [Twitter](https://twitter.com/Ghonim) 主页背景壁纸的一句话：
 
@@ -184,7 +184,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > As a believer in the Internet, I teamed up with a few friends, started a new project, trying to find answers and explore possibilities. Our first product is a new media platform for conversations. We're hosting conversations that promote mutual understanding and hopefully change minds. We don't claim to have the answers, but we started experimenting with different discussions about very divisive issues, such as race, gun control, the refugee debate, relationship between Islam and terrorism. These are conversations that matter.
 
-作为互联网的信徒，我和一些朋友合作开启了一个新项目，试图寻找答案，并且探索多种可能性。我们的第一个产品是新的谈话性媒体平台。我们举办对谈活动来促进相互理解，并希望改变人们的看法。我们并不声称拥有答案，但我们开始试验关于争议问题的不同的谈话，比如种族、限制枪支、有关难民的争论、伊斯兰和恐怖主义之间的关系， 这些都是重要的对话。
+作为互联网的信徒，我和一些朋友合作开启了一个新项目 ( [Parlio](https://www.parlio.com/) )，试图寻找答案，并且探索多种可能性。我们的第一个产品是新的谈话性媒体平台。我们举办对谈活动来促进相互理解，并希望改变人们的看法。我们并不声称拥有答案，但我们开始试验关于争议问题的不同的谈话，比如种族、限制枪支、有关难民的争论、伊斯兰和恐怖主义之间的关系， 这些都是重要的对话。
 
 
 
