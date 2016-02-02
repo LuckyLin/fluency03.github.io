@@ -174,7 +174,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > As a believer in the Internet, I teamed up with a few friends, started a new project, trying to find answers and explore possibilities. Our first product is a new media platform for conversations. We're hosting conversations that promote mutual understanding and hopefully change minds. We don't claim to have the answers, but we started experimenting with different discussions about very divisive issues, such as race, gun control, the refugee debate, relationship between Islam and terrorism. These are conversations that matter.
 
-作为互联网的信徒，我和一些朋友合作开启了一个新项目，试图寻找答案，并且探索多种可能性。我们的第一个产品是新的谈话性媒体平台。我们举办对谈活动来促进相互理解，并希望改变人们的看法。我们声称拥有答案，但我们开始试验关于争议问题的不同的谈话，比如种族、限制枪支、有关难民的争论、伊斯兰和恐怖主义之间的关系， 这些都是重要的对话。
+作为互联网的信徒，我和一些朋友合作开启了一个新项目，试图寻找答案，并且探索多种可能性。我们的第一个产品是新的谈话性媒体平台。我们举办对谈活动来促进相互理解，并希望改变人们的看法。我们并不声称拥有答案，但我们开始试验关于争议问题的不同的谈话，比如种族、限制枪支、有关难民的争论、伊斯兰和恐怖主义之间的关系， 这些都是重要的对话。
 
 
 
