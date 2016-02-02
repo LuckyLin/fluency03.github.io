@@ -42,7 +42,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > In June 2010, Internet changed my life forever. While browsing Facebook, I saw a photo, a terrifying photo, of a tortured, dead body of a young Egyptian guy. His name was Khaled Said. Khaled was a 29-year-old Alexandrian who was killed by police. I saw myself in his picture. I thought, "I could be Khaled."
 
-2010年6月，互联网永远地改变了我的人生。在浏览脸书时，我看到了一张照片，一张可怕的照片 --- 一个被折磨过的埃及年轻人的尸体。他的名字是卡勒德·赛义德。29岁的亚历山大人卡勒德是被警察杀害的。在他的照片中，我看到了自己。我想：“我也可能是卡勒德。”
+2010年6月，互联网永远地改变了我的人生。在浏览脸书时，我看到了一张照片，一张可怕的照片 --- --- 一个被折磨过的埃及年轻人的尸体。他的名字是卡勒德·赛义德。29岁的亚历山大人卡勒德是被警察杀害的。在他的照片中，我看到了自己。我想：“我也可能是卡勒德。”
 
 
 
@@ -120,7 +120,7 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 > First, we don't know how to deal with rumors. Rumors that confirm people's biases are now believed and spread among millions of people.
 
-首先，我们不知道如何应对谣言。那些展示人们偏见的谣言 被相信，并向数百万人群传播。
+首先，我们不知道如何应对谣言。那些巩固助长了人们偏见的谣言，正被更多的人接受相信着，并向数百万人群传播。
 
 
 
