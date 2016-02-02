@@ -153,47 +153,46 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 我目睹了这些严峻挑战是如何影响一个已是两极分化的埃及社会的，但是，这并不只是关于埃及。两极化在全球范围内都在持续升温。我们需要努力思索科技如何成为解决方案的一部分，而不是麻烦的一部分。
 
 
-TO DO
 
-> There's a lot of debate today on how to combat online harassment and fight trolls. This is so important.No one could argue against that. But we need to also think about how to design social media experiences that promote civility and reward thoughtfulness. I know for a fact if I write a post that is more sensational, more one-sided, sometimes angry and aggressive, I get to have more people see that post. I will get more attention.  
+> There's a lot of debate today on how to combat online harassment and fight trolls. This is so important. No one could argue against that. But we need to also think about how to design social media experiences that promote civility and reward thoughtfulness. I know for a fact if I write a post that is more sensational, more one-sided, sometimes angry and aggressive, I get to have more people see that post. I will get more attention.  
 
-当今有很多争论 关于如何对抗线上骚扰 以及解决重复宣告的问题。 这很重要。 没人会反对。 但我们也需要思考 如何设计社交媒体经验 来推动礼貌和回报体贴。 我知道 如果我写一个更加耸动， 更加一边倒， 有时是气愤和激进的帖子， 会有更多人关注到这个帖子。 我会吸引更多注意力。
+当今有很多争论，关于如何抵抗网络骚扰以及反对蓄意的攻击漫骂。这个是在是太重要了。没有人会反对。但我们也需要去思考如何设计社交媒体实际体验，来推动礼貌修养，回报深思熟虑。我知道一个事实，如果我写一个更加耸动，更加一边倒，甚至有时更加愤恨和激进的帖子，我会得到更多人关注着个帖子。我会吸引更多注意力。
 
 
 
 > But what if we put more focus on quality? What is more important: the total number of readers of a post you write, or who are the people who have impact that read what you write? Couldn't we just give people more incentives to engage in conversations, rather than just broadcasting opinions all the time? Or reward people for reading and responding to views that they disagree with? And also, make it socially acceptable that we change our minds, or probably even reward that? What if we have a matrix that says how many people changed their minds, and that becomes part of our social media experience? If I could track how many people are changing their minds, I'd probably write more thoughtfully, trying to do that, rather than appealing to the people who already agree with me and "liking" because I just confirmed their biases.
 
-但是如果我更加关注质量呢？ 哪个更重要呢： 你写的帖子的总阅读量， 还是是谁在阅读，谁有更大的影响力 在阅读你写的帖子？ 为什么不能创造更大的动机 让人们参与对话， 而非一直宣传观点？ 或是奖励人们阅读 和评论那些他们不同意的观点？ 同时，让改变自己的观点 变成社会所接纳的行为， 或者可能的话，奖励这样的行为？ 如果我们有一个模型 可以显示有多少人改变他们的观点， 成为社交媒体经验的一部分？ 如果我能追踪多少人改变了想法， 我可能会写得更认真仔细， 试图更有说服力， 而不是在那些和我观点相同的人那里 获得“赞”，因为我只是在 确认他们的偏见。
+但是如果我更加关注质量呢？ 到底哪个更重要：你写的帖子的总阅读量，还是是谁在阅读你的帖子，那些有更大的影响力的人在阅读你写的帖子？ 为什么不能创造更大的动机 让人们参与对话， 而非一直宣传观点？ 或是奖励人们阅读 和评论那些他们不同意的观点？ 同时，让改变自己的观点 变成社会所接纳的行为， 或者可能的话，奖励这样的行为？ 如果我们有一个模型 可以显示有多少人改变他们的观点， 成为社交媒体经验的一部分？ 如果我能追踪多少人改变了想法， 我可能会写得更认真仔细， 试图更有说服力， 而不是在那些和我观点相同的人那里 获得“赞”，因为我只是在 确认他们的偏见。
 
 
 
 > We also need to think about effective crowdsourcing mechanisms, to fact-check widely spread online information, and reward people who take part in that. In essence, we need to rethink today's social media ecosystem and redesign its experiences to reward thoughtfulness, civility and mutual understanding.
 
-我们也需要思考 有效地众包机制， 来查实广为传播的网络信息， 奖励那些参与进来的人。 从本质上讲，我们需要重新思考 今天的社交媒体系统， 重新设计它的经验 来奖励深思、礼貌和互相了解。
+我们也需要思考有效的众策机制，来查实广为传播的网络信息，奖励那些参与进来的人。从本质上讲，我们需要重新思考今天的社交媒体系统，重新设计它的体验来奖励深思、修养和互相了解。
 
 
 
 > As a believer in the Internet, I teamed up with a few friends, started a new project, trying to find answers and explore possibilities. Our first product is a new media platform for conversations. We're hosting conversations that promote mutual understanding and hopefully change minds. We don't claim to have the answers, but we started experimenting with different discussions about very divisive issues, such as race, gun control, the refugee debate, relationship between Islam and terrorism. These are conversations that matter.
 
-作为互联网的信徒 我和一些朋友合作， 开启了一个新项目， 试图寻找答案和探索多种可能性。 我们的第一个产品是 新的谈话性媒体平台。 我们举办对谈活动 来促进相互理解 希望改变看法。 我们没有答案， 但我们开始试验不同的谈话活动 关于非常有争议的问题， 比如种族、限制枪支、 有关难民的争论、 伊斯兰和恐怖主义之间的关系， 这些都是重要的对话。
+作为互联网的信徒，我和一些朋友合作开启了一个新项目，试图寻找答案，并且探索多种可能性。我们的第一个产品是新的谈话性媒体平台。我们举办对谈活动来促进相互理解，并希望改变人们的看法。我们声称拥有答案，但我们开始试验关于争议问题的不同的谈话，比如种族、限制枪支、有关难民的争论、伊斯兰和恐怖主义之间的关系， 这些都是重要的对话。
 
 
 
 > Today, at least one out of three people on the planet have access to the Internet. But part of this Internet is being held captive by the less noble aspects of our human behavior.
 
-今天，世界上三分之一的人 能够连接上互联网。 但是互联网的一部分被 人类习性中 不那么高尚的方面俘虏了。
+今天，这个星球上至少有三分之一的人能够连接上互联网。但是这个互联网的一部分被人类习性中不那么高尚的方面俘虏着。
 
 
 
 > Five years ago, I said, "If you want to liberate society, all you need is the Internet."
 
-五年前，我说， “如果你想要解放社会， 你需要互联网。”
+五年前，我说：“如果你想要解放社会，你只需要拥有互联网。”
 
 
 
 > Today, I believe if we want to liberate society, we first need to liberate the Internet.
 
-今天，我相信 如果我们想要解放社会， 我们首先要解放互联网。
+今天，我相信，如果我们想要解放社会，我们首先要解放互联网。
 
 
 
