@@ -146,13 +146,14 @@ TED Talk: [Let's design social media that drives real change](http://www.ted.com
 
 第五，在我看来，这是最最重要的。今天，我们的社交媒体经验被设计为利于传播而不容易参与，利于发布而不利于讨论，利于浅薄的观点而不是深度的讨论。就好像我们认同自己是来这里对着他人说教而不是与他人对话。
 
-TO DO
+
 
 > I witnessed how these critical challenges contributed to an already polarized Egyptian society, but this is not just about Egypt. Polarization is on the rise in the whole world. We need to work hard on figuring out how technology could be part of the solution, rather than part of the problem.
 
-我目睹这些严峻挑战是如何影响 埃及这个已是两极分化的社会， 但是，这并不只是关于埃及。 两极化在全球范围内升温。 我们要努力寻找 科技如何成为解决方案的一部分， 而不是麻烦的一部分。
+我目睹了这些严峻挑战是如何影响一个已是两极分化的埃及社会的，但是，这并不只是关于埃及。两极化在全球范围内都在持续升温。我们需要努力思索科技如何成为解决方案的一部分，而不是麻烦的一部分。
 
 
+TO DO
 
 > There's a lot of debate today on how to combat online harassment and fight trolls. This is so important.No one could argue against that. But we need to also think about how to design social media experiences that promote civility and reward thoughtfulness. I know for a fact if I write a post that is more sensational, more one-sided, sometimes angry and aggressive, I get to have more people see that post. I will get more attention.  
 
