@@ -33,12 +33,8 @@ kramdown:
 owner:
   name: Chang
   avatar: avatar.jpg
-  job: "KTH Royal Institute of Technology, Stockholm, Sweden"
-  bio: "A programmer, a data analyst, and an embedded engineer \\
-          • \\ who is expecting to solve real problems \\
-          • \\ who is desiring to apply technology to improve people's life \\
-          • \\ who is passionate, curious, persistent and committed \\
-          • \\ who is willing to contribute and to learn"
+  job: "Programmer, Geek, Data analyst, Embedded engineer"
+  bio: "Be yourself; everyone else is already taken."
   email: fluency.03@gmail.com
   disqus-shortname: changblog
   twitter: #username
