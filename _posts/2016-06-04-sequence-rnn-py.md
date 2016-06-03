@@ -1,7 +1,7 @@
 ---
 title: "Sequence Learning using RNN"
 layout: post
-date: 2016-06-04 22:10
+date: 2016-06-03 22:10
 tag: jekyll
 image: /assets/images/jekyll-logo-light-solid.png
 headerImage: true
