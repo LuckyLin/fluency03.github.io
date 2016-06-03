@@ -1,16 +1,21 @@
 ---
+title: "TED Talk: Let's design social media that drives real change | 让我们设计出推动真正变革的社交媒体"
 layout: post
-title: "TED Talk: Let's design social media that drives real change | 让我们设计出推动真正变革的社交媒体 "
-
-excerpt: "昨天看了这个TED Talk ---- Let's design social media that drives real change given by Wael Ghonim，有很多想说的，不仅仅是因为他的话引发了我的很多共鸣，更多的是最近 Facebook、Weibo 等社交网络因为大陆和台湾的事情乌烟瘴气，两边的网民骂来骂去，更多的人不经思考被别人或被媒体煽动着鼓舞着，信誓旦旦，大义凛然。我只是希望当人们在网上发布某些话的时候，都能多些思考，而不是随波逐流，沦为被利用的工具。" # without setting this option, jekyll will take the first 160 words to be its  excerpt part.
-tags: [ted talk, social media, change, freedom, people] # tags.
-categories: [society, TED] # categories.
-comments: true # enable disqus comment
-
+date: 2016-02-01 22:48
+tag:
+- ted
+- social
+- media
+- change
+- freedom
+- people
+- influence
+blog: true
 ---
 
 TED Talk: [Let's design social media that drives real change](http://www.ted.com/talks/wael_ghonim_let_s_design_social_media_that_drives_real_change) given by Wael Ghonim ( *[Wiki Page](https://en.wikipedia.org/wiki/Wael_Ghonim) and [Twitter Page](https://twitter.com/Ghonim)* ).
 
+<iframe src="https://embed-ssl.ted.com/talks/lang/en/wael_ghonim_let_s_design_social_media_that_drives_real_change.html" width="854" height="480" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 昨天看了这个TED Talk，有很多想说的，不仅仅是因为他的话引发了我的很多共鸣，更多的是最近 Facebook、Weibo 等社交网络因为大陆和台湾的事情乌烟瘴气，两边的网民骂来骂去，更多的人不经思考被别人或被媒体煽动着鼓舞着，信誓旦旦，大义凛然。尽管其中有一些理智的声音，有一些温暖的话语，但还远远不够。我只是希望当人们在网上发布某些话的时候，都能多些思考，而不是随波逐流，沦为被利用的工具。
 
