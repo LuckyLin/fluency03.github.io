@@ -29,11 +29,11 @@ To *some countries*, freedom of speech is a fragile paradox being coveted by man
 
 
 
-Wael Ghonim 四五年前做过第一个 TED Talk --- --- [Inside the Egyptian revolution](https://www.ted.com/talks/wael_ghonim_inside_the_egyptian_revolution)。看完这个视频，再对比他现在的视频，可以看出他思想的转变，可以看出他思考的深入。想的更多，想得更远，想得更深，更彻底。这种理性的变化更好地诠释了 Internet Activist 并不是 Internet Mob。只可惜，总有一些人打着正义、卫道的旗号招摇撞骗，浑水和泥，生怕世界不能再乱一点。 言论自由给予了人们太多抒发的爽快，却并没有太多人在背后提醒：请不要自私地、不负责任地对待别人和这个社会。 Wael Ghonim 相信，当我们可以把文明礼仪和深思的对话还给互联网时，它将是人类互联、人道互联最强大的平台。 ( *Wael Ghonim believes that the Internet can be the most powerful platform for connecting humanity, if we can bring civility and thoughtful conversations back to it.* )
+Wael Ghonim 四五年前做过第一个 TED Talk --- [Inside the Egyptian revolution](https://www.ted.com/talks/wael_ghonim_inside_the_egyptian_revolution)。看完这个视频，再对比他现在的视频，可以看出他思想的转变，可以看出他思考的深入。想的更多，想得更远，想得更深，更彻底。这种理性的变化更好地诠释了 Internet Activist 并不是 Internet Mob。只可惜，总有一些人打着正义、卫道的旗号招摇撞骗，浑水和泥，生怕世界不能再乱一点。 言论自由给予了人们太多抒发的爽快，却并没有太多人在背后提醒：请不要自私地、不负责任地对待别人和这个社会。 Wael Ghonim 相信，当我们可以把文明礼仪和深思的对话还给互联网时，它将是人类互联、人道互联最强大的平台。 ( *Wael Ghonim believes that the Internet can be the most powerful platform for connecting humanity, if we can bring civility and thoughtful conversations back to it.* )
 
 
 
-Wael Ghonim had his first TED Talk --- --- [Inside the Egyptian revolution](https://www.ted.com/talks/wael_ghonim_inside_the_egyptian_revolution) about 4 - 5 years ago. By comparing his two videos, it is clear to find out his rational thinking. His thought was richer, further, deeper and more thoroughly. It was such varying of rationality that perfectly interpreted that *Internet Activist is not Internet Mod*. Unfortunately, there are always some people out there being afraid of an well-ordered world, who are stirring the muddy place, cheating and lying, however, flagged by so called justice and defencer. Freedom of speech indeed offered such a pleasure of expressing but no one is playing a reminder behind it and saying that: Please do not treat others and the society with selfishness and irresponsibility. *Wael Ghonim believes that the Internet can be the most powerful platform for connecting humanity, if we can bring civility and thoughtful conversations back to it.*
+Wael Ghonim had his first TED Talk --- [Inside the Egyptian revolution](https://www.ted.com/talks/wael_ghonim_inside_the_egyptian_revolution) about 4 - 5 years ago. By comparing his two videos, it is clear to find out his rational thinking. His thought was richer, further, deeper and more thoroughly. It was such varying of rationality that perfectly interpreted that *Internet Activist is not Internet Mod*. Unfortunately, there are always some people out there being afraid of an well-ordered world, who are stirring the muddy place, cheating and lying, however, flagged by so called justice and defencer. Freedom of speech indeed offered such a pleasure of expressing but no one is playing a reminder behind it and saying that: Please do not treat others and the society with selfishness and irresponsibility. *Wael Ghonim believes that the Internet can be the most powerful platform for connecting humanity, if we can bring civility and thoughtful conversations back to it.*
 
 
 
@@ -76,7 +76,7 @@ Here, I quote a saying from the wallpaper of Wael Ghonim' [Twitter](https://twit
 
 > In June 2010, Internet changed my life forever. While browsing Facebook, I saw a photo, a terrifying photo, of a tortured, dead body of a young Egyptian guy. His name was Khaled Said. Khaled was a 29-year-old Alexandrian who was killed by police. I saw myself in his picture. I thought, "I could be Khaled."
 
-2010年6月，互联网永远地改变了我的人生。在浏览脸书时，我看到了一张照片，一张可怕的照片 --- --- 一个被折磨过的埃及年轻人的尸体。他的名字是卡勒德·赛义德。29岁的亚历山大人卡勒德是被警察杀害的。在他的照片中，我看到了自己。我想：“我也可能是卡勒德。”
+2010年6月，互联网永远地改变了我的人生。在浏览脸书时，我看到了一张照片，一张可怕的照片 --- 一个被折磨过的埃及年轻人的尸体。他的名字是卡勒德·赛义德。29岁的亚历山大人卡勒德是被警察杀害的。在他的照片中，我看到了自己。我想：“我也可能是卡勒德。”
 
 
 
@@ -130,7 +130,7 @@ Here, I quote a saying from the wallpaper of Wael Ghonim' [Twitter](https://twit
 
 > After 11 days of complete darkness, I was set free. And three days later, Mubarak was forced to step down. It was the most inspiring and empowering moment of my life. It was a time of great hope. Egyptians lived a utopia for 18 days during the revolution. They all shared the belief that we could actually live together despite our differences, that Egypt after Mubarak would be for all.
 
-在完全黑暗的11天后，我自由了。又过了3天，穆巴拉克被迫下台。那是我人生最激动、最精神振奋的时刻。 那是怀抱伟大希望的时刻。埃及人民曾活在18天革命的乌托邦中。他们共享同样的信仰 --- --- 我们本可以求同存异地生活在一起，穆巴拉克之后的埃及将是和平包容的国度。
+在完全黑暗的11天后，我自由了。又过了3天，穆巴拉克被迫下台。那是我人生最激动、最精神振奋的时刻。 那是怀抱伟大希望的时刻。埃及人民曾活在18天革命的乌托邦中。他们共享同样的信仰 --- 我们本可以求同存异地生活在一起，穆巴拉克之后的埃及将是和平包容的国度。
 
 
 
