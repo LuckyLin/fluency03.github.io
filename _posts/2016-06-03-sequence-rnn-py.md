@@ -1,5 +1,5 @@
 ---
-title: "Sequence Learning using RNN"
+title: "Sequence Learning based on RNN using Keras"
 layout: post
 date: 2016-06-03 22:10
 tag:
@@ -8,7 +8,7 @@ tag:
 - Data Analytics
 - Keras
 - Sequence Learning
-image: /assets/images/jekyll-logo-light-solid.png
+image: /assets/images/keras-logo-small.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
