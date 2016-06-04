@@ -2,7 +2,12 @@
 title: "Sequence Learning using RNN"
 layout: post
 date: 2016-06-03 22:10
-tag: jekyll
+tag:
+- Recurrent Neural Network
+- Machine Learning
+- Data Analytics
+- Keras
+- Sequence Learning
 image: /assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
