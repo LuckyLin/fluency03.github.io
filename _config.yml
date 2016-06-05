@@ -16,7 +16,7 @@ markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-78813041-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -27,14 +27,14 @@ disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-# twitter: mytwitter
+twitter: fluency_03
 # google: mygoogle
 instagram: changliu03
 # pinterest: mypinterest
 linkedin: fluency03
 # stackoverflow: 4802797/chang-liu
 # youtube: myyoutube
-# spotify: myspotify
+spotify: 11153521336
 github: fluency03
 # medium: medium
 # vimeo: myvimeo
