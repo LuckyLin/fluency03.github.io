@@ -11,7 +11,9 @@ tag:
 blog: true
 ---
 
-### Interview Questions
+[Check it out](https://fluency03.github.io//linked-list-interview-question/) here for previous post about linked list.
+
+### Interview Questions (TODO: Solutions)
 
 1. Delete a node with time complexity of O(1) \| 在O(1)时间删除链表节点
 
