@@ -133,9 +133,9 @@ Interview questions about linked list
 
 
 
-[1]: [https://raw.githubusercontent.com/fluency03/fluency03.github.io/master/assets/images/2to1.jpg]
-[2]: [http://wuchong.me/blog/2014/03/25/interview-link-questions/]
-[3]: [https://en.wikipedia.org/wiki/Linked_list]
-[4]: [https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Singly-linked-list.svg/408px-Singly-linked-list.svg.png]
-[5]: [https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Doubly-linked-list.svg/610px-Doubly-linked-list.svg.png]
-[6]: [https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Circularly-linked-list.svg/350px-Circularly-linked-list.svg.png]
+[1]: https://raw.githubusercontent.com/fluency03/fluency03.github.io/master/assets/images/2to1.jpg
+[2]: http://wuchong.me/blog/2014/03/25/interview-link-questions/
+[3]: https://en.wikipedia.org/wiki/Linked_list
+[4]: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Singly-linked-list.svg/408px-Singly-linked-list.svg.png
+[5]: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Doubly-linked-list.svg/610px-Doubly-linked-list.svg.png
+[6]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Circularly-linked-list.svg/350px-Circularly-linked-list.svg.png
