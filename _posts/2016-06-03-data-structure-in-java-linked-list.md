@@ -40,7 +40,7 @@ The advantages and disadvantages of using linked lists are given below.
 * More memory requried than arrays because of the storage used by the links pointing to other nodes.
 
 
-* Node cannot be directly searched and accessed within a O(1) time, which must be read in order from the beginning as linked lists are inherently sequential access. However, the data of array can be addressed with O(1) time because of direct indexing.
+* Node cannot be directly searched and accessed within a O(1) time, which must be read in order from the beginning as linked lists are inherently sequential access. This leads to the worst time compexity as O(n), where n is the number of nodes on the list. However, the data of array can be addressed with O(1) time because of direct indexing.
 
 
 * Nodes are stored incontiguously, greatly increasing the time required to access individual elements within the list.
@@ -61,29 +61,42 @@ The following code is for the singly linked **ListNode**:
 ### Singly linked list
 
 ![Singly linked list][4]
+<figcaption class="caption">Singly Linked List</figcaption>
 
 
 ### Doubly linked list
 
 ![Doubly linked list][5]
+<figcaption class="caption">Doubly Linked List</figcaption>
 
 
 ### Circular linked list
 
 ![Circular linked list][6]
+<figcaption class="caption">Circular (Singly) Linked List</figcaption>
 
 
 ### Sentinel nodes
 
+Sentinel node (or dummy node) is a specifically designated node for linked list (or some other data strutures such as tree) as a traversal path terminator. This type of node does not hold or reference any data managed by the data structure, instead, it normally contains certain meanless payload such as *Null*, *Infinity* or *Dummy*.
+
+Sentinel node can simplify certain list operations (such as efficient node deleting), by ensuring that the next or previous nodes must exist for every element, and that even empty lists have at least one node. One may also use a sentinel node at the end of the list, with an appropriate data field, to eliminate some end-of-list tests. However, sentinel nodes use up extra space (especially in applications that may require many short lists), and they may complicate some other operations (such as the creation of a new empty list).
+
+<!-- However, if the circular list is used merely to simulate a linear list, one may avoid some of this complexity by adding a single sentinel node to every list, between the last and the first data nodes. With this convention, an empty list consists of the sentinel node alone, pointing to itself via the next-node link. The list handle should then be a pointer to the last data node, before the sentinel, if the list is not empty; or to the sentinel itself, if the list is empty. -->
+
+<!-- The same trick can be used to simplify the handling of a doubly linked linear list, by turning it into a circular doubly linked list with a single sentinel node. However, in this case, the handle should be a single pointer to the dummy node itself. -->
 
 
+<!-- Sentinels are used as an alternative over using null as the path terminator in order to get one or more of the following benefits: -->
+
+Benifits:
+
+* Increased efficy and speed of certain list operations
+* Reduced algorithmic complexity and code size
+* Increased data structure robustness (arguably)
 
 
-
-
-### TODO
-
-Interview questions about linked list
+### TODO: Interview Questions
 
 1. Delete a node with time complexity of O(1) \| 在O(1)时间删除链表节点
 
