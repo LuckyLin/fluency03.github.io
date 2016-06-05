@@ -71,6 +71,12 @@
         </a>
     {% endif %}
 
+    {% if site.cv %}
+        <a class="link" data-title="{{ site.cv }}" href="{{ site.cv }}" target="_blank">
+            <svg class="icon icon-cv"><use xlink:href="#icon-cv"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.email %}
         <a class="link" data-title="{{ site.email }}" href="mailto:{{ site.email }}">
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
