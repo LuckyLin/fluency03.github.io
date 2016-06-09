@@ -49,6 +49,8 @@ A software development engineer with innovative and entrepreneurial mind set
 </ul>
 
 
+<h2>Download My <a href="https://fluency03.github.io/cv.pdf">Resume</a></h2>
+
 <!-- <iframe src="//www.slideshare.net/slideshow/embed_code/key/airtnCyx84PJ3l" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ChangLiu61/cv-62744815" title="cv" target="_blank">cv</a> </strong> from <strong><a href="//www.slideshare.net/ChangLiu61" target="_blank">Chang Liu</a></strong> </div> -->
 
 <!-- <h2>Projects</h2>
