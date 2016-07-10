@@ -1,5 +1,5 @@
 ---
-title: 'Scala Study Note 1. | Scala 学习笔记 (一)'
+title: 'Scala Study Note 1: What is Scala? | Scala 学习笔记 (一): 什么是 Scala?'
 layout: post
 date: '2016-06-20 22:25'
 tag:
@@ -20,6 +20,10 @@ I would first recommend several great Scala materials, which I will mainly rely 
  - [Scala Official Documentations](http://docs.scala-lang.org/index.html)
  - [Programming in Scala, 3ed Edition](http://www.artima.com/shop/programming_in_scala_3ed)
 
+
+*Please find all blog posts in the index page: [Index: Scala Study Note \| 目录: Scala 学习笔记](https://fluency03.github.io/scala-study-note-index/)*
+
+
 Before start introducing the syntex and grammer of Scala, there are several important notions worth illustrating, with regard of functional programming and object-oriented programming. A clear awareness of these ideas will form a good understanding of the fundimental principles of Scala. In this and the following blogs, it is assumed that the audiences have basic understanding of object-oriented programming and have already possessed the knowledege and experience of at least one of these related languages, such as Java, Python or C++.
 
 
@@ -34,12 +38,12 @@ Scala is an object-oriented language in pure form:
 
  - **Every value is an object.** A contrast example is that, in Java, the primitive values are not objects. Unlike Java, all values in Scala are objects (including numerical values and functions). Since Scala is class-based, all values are instances of a class. The type hierarchy of Scala is illustrated in the following diagram.
 
- ![Markdowm Image][5]
- <figcaption class="caption">
-  Scala Type Hierarchy (Source: [2]).
- </figcaption>
+    ![Markdowm Image][5]
+    <figcaption class="caption">
+      Scala Type Hierarchy (Source: [2]).
+    </figcaption>
 
-  The `scala.Any` is the most superclass of all classes in Scala. As shown in above figure, it has two direct subclasses - `scala.AnyVal` and `scala.AnyRef` - each of them representing a class world: value classes and reference classes, respectively. The value classes are predefined corresponding to the primitive types (i.e., non-object types) of Java or similar languages. The reference classes are user-defined classes, which are always (directly or indirectly) the subclasses of `scala.AnyRef`. Every user-defined class in Scala implicitly extends the trait `scala.ScalaObject` (the concept of *trait* will be studied later). Classes from the infrastructure on which Scala is running (e.g. JVM) do not extend `scala.ScalaObject`. The `scala.AnyRef` is equivalent to `java.lang.Object`, if Scala is running on JVM. This type hierarchy of Scala will be explicitely explained in the following blogs by having actual code.
+    The `scala.Any` is the most superclass of all classes in Scala. As shown in above figure, it has two direct subclasses - `scala.AnyVal` and `scala.AnyRef` - each of them representing a class world: value classes and reference classes, respectively. The value classes are predefined corresponding to the primitive types (i.e., non-object types) of Java or similar languages. The reference classes are user-defined classes, which are always (directly or indirectly) the subclasses of `scala.AnyRef`. Every user-defined class in Scala implicitly extends the trait `scala.ScalaObject` (the concept of *trait* will be studied later). Classes from the infrastructure on which Scala is running (e.g. JVM) do not extend `scala.ScalaObject`. The `scala.AnyRef` is equivalent to `java.lang.Object`, if Scala is running on JVM. This type hierarchy of Scala will be explicitely explained in the following blogs by having actual code.
   <!-- Please note that the diagram above also shows implicit conversions between the value classes. -->
   <!-- Here is an example that demonstrates that both numbers, characters, boolean values, and functions are objects just like every other object: -->
 
@@ -96,29 +100,45 @@ Other features of Scala as a functional language are:
 
 - Currying
 - Cloure
-- etc.
+- etc...
 
 
 
+## Benefits
 
-## Compile and Execute
+According to [[4]], there are several benefits of Scala:
 
-The way of compiling and executing scala files is as same and easy as how it is done in Java.
+ - **Compatibility.** Scala is designed for seamless interoperating with Java.
 
-The [`scalac`](http://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/tools/scala.html) command compiles the Scala source file(s) and generates corresponding Java bytecode which can be executed on any standard JVM. The Scala compiler works similarly to `javac`, which is the Java compiler of the Java SDK.
+    Scala programs can access Java fields, call Java methods, inherit from Java classes, and implement Java interfaces. None of this requires additional efforts such as special syntax, explicit interface descriptions, or glue code. In fact, almost all Scala code not only makes heavy use of Java libraries but also re-uses Java types.
+    <!-- , often without programmers being aware of this fact. Another aspect of such full interoperability is that Scala heavily re-uses Java types.  -->
+    Scala's `Int` is represented as Java's primitive integers of type `int`, `Float` is represented as `float`, `Boolean` as `boolean`, and so on. Scala arrays are mapped to Java arrays. Many of Java's standard library types are also re-used by Scala. For instance, the type of a string literal "abc" in Scala is `java.lang.String`, and a thrown exception must be a subclass of `java.lang.Throwable`.
 
-{% highlight scala %}
-> scalac HelloWorld.scala
-{% endhighlight %}
+    Scala further "*decorates*" the original Java types in order to make them easy to use and more convenient. For instance, Scala's strings support methods like `toInt` or `toFloat`, which converts the string to an integer or floating-point number, respectively. Then, a string can be converted to an integer by `str.toInt` in Scala instead of `Integer.parseInt(str)` in Java. Scala allows implicit conversions, which are always applied when types would not normally match up or when non-existing members are selected. In the case above, when looking for a `toInt` method on a string, the Scala compiler will find no such member of class `String`, but it will find an implicit conversion that converts a Java `String` to an instance of the Scala class `RichString`, which does define such a member. The conversion will then be applied implicitly before performing the `toInt` operation.
 
-The [`scala`](http://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/tools/scala.html) command executes the above generated bytecode with certain appropriate options.
+    Scala programs are compiled to JVM bytecodes, which will be running on JVM, therefore the run-time performance of Scala is usually on par with Java programs.
 
-{% highlight scala %}
-> scala HelloWorld
-{% endhighlight %}
+ - **Brevity.** Scala programs tend to be short and concise, which is quicker to write, easier to read, and most importantly, less likely to have errors.
+
+    It has been shown that Scala could have ten times of reductions compared to Java in terms of number of code lines [[4]]. These might be an extreme case. Normally Scala program should have about half size of the same program written in Java [[4]].
+
+    Scala's syntax avoids some of the boilerplate that burdens Java programs. For instance, the semicolon is optional in Scala and usually left out. Another example is about how a class and its constructors are expressed in Java and Scala. Different from Java's way, where the fields and constructors of a class should be explicitely stated, as well as their type and decorators, the private members, in a class of Scala, are just given as parameters and can be easily initialized.
+
+    In Scala, repetitive type information can be left out (type inference), so programs become less cluttered and more readable.
+
+    Most importantly, the very factor leads to the conciseness of Scala is the powerful and convenient libraries defined for integrating the common behaviors.
+    For instance, different aspects of library classes can be separated out into traits, which can then be mixed together in flexible ways. Or, library methods can be parameterized with operations, which lets you define constructs that are, in effect, your own control structures. Together, these constructs allow the definition of libraries that are both high-level and flexible to use [[4]].
+
+ - **High-level abstractions.** Scala is very helpful in managing program's complexity by offering the possibility of higher level of abstraction.
+
+ - **Advanced static typing.**
+
+    A language is statically typed if the type of a variable is known at compile-time, which means that the programmer must specify the type each variable. The main advantage here is that all kinds of checking can be done by the compiler, and therefore a lot of stupid bugs are caught at a very early stage. On the other hand, a language is dynamically typed if the type of a variable is interpreted at run-time.
+
+    Please refer to the Wikipedia [Type System](https://en.wikipedia.org/wiki/Type_system) for more information and the [page](http://www.artima.com/pins1ed/a-scalable-language.html#footnote1-12) of [[4]] regarding the discussion of static and dynamic typing, especially the pros and cons of Scala as the static type system.
 
 
-
+In the next post - [Scala Study Note 2: Get Started! \| Scala 学习笔记 (二): 上手!](https://fluency03.github.io/scala-study-note-2/), a quick start of simple Scala programming is given.
 
 
 
