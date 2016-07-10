@@ -16,23 +16,3 @@ blog: true
   **1. [Scala Study Note 1: What is Scala? \| Scala 学习笔记 (一): 什么是 Scala?](https://fluency03.github.io/scala-study-note-1/)**
 
   **2. [Scala Study Note 2: Get Started! \| Scala 学习笔记 (二): 上手!](https://fluency03.github.io/scala-study-note-2/)**
-
-
-
-
-
-
-
-
-
-
-
-## References
-
-
-* [1] [Odersky, Martin, Lex Spoon, and Bill Venners. *Programming in scala*. Artima Inc, 2008.][1]
-
-
-
-
-[1]: https://cs.uwaterloo.ca/~brecht/courses/702/Possible-Readings/scala/ProgrammingInScala.pdf
