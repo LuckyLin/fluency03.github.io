@@ -1,7 +1,7 @@
 ---
 title: 'Index: Scala Study Note | 目录: Scala 学习笔记'
 layout: post
-date: '2016-07-09 22:25'
+date: '2016-06-20 22:25'
 tag:
   - Scala
   - Programming
