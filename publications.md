@@ -3,7 +3,7 @@ title: Publications
 layout: page
 ---
 
-<div class="breaker"></div> 
+<div class="breaker"></div>
 
 # Publications
 
