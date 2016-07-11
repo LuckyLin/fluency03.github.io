@@ -11,6 +11,11 @@ tag:
 blog: true
 ---
 
+
+*Please find all blog posts in the index page: [Index: Scala Study Note \| 目录: Scala 学习笔记](https://fluency03.github.io/scala-study-note-index/)*
+
+---
+
 I started to study Scala recently since I found that it is a quite interesting programming language to learn, which is different from other languages I have learned before, such as C/C++, Python and Java. There are many interesting feautures of Scala that I haven't known and the idea of Functional Programming also intrigues me. Therefore, I would like to write a series of blogs recording the process of my study. It will be about the knowledege and practices of Scala. I will also try my best to give my ideas and understanding. This is not only the study notes for keping myself motivated and but also a place where I would like to hear your ideas and thoughts. Please feel free to leave any comments below. To the best of my knowledege, I will answer your questions as possible as I can but be more eager to see you pointing out my mistakes and offering different opinions.
 
 I would first recommend several great Scala materials, which I will mainly rely on during my study.
@@ -20,12 +25,10 @@ I would first recommend several great Scala materials, which I will mainly rely 
  - [Scala Official Documentations](http://docs.scala-lang.org/index.html)
  - [Programming in Scala, 3ed Edition](http://www.artima.com/shop/programming_in_scala_3ed)
 
-
-*Please find all blog posts in the index page: [Index: Scala Study Note \| 目录: Scala 学习笔记](https://fluency03.github.io/scala-study-note-index/)*
-
-
 Before start introducing the syntex and grammer of Scala, there are several important notions worth illustrating, with regard of functional programming and object-oriented programming. A clear awareness of these ideas will form a good understanding of the fundimental principles of Scala. In this and the following blogs, it is assumed that the audiences have basic understanding of object-oriented programming and have already possessed the knowledege and experience of at least one of these related languages, such as Java, Python or C++.
 
+
+---
 
 ## What is Scala?
 
@@ -104,6 +107,8 @@ Other features of Scala as a functional language are:
 
 
 
+---
+
 ## Benefits
 
 According to [[4]], there are several benefits of Scala:
@@ -137,10 +142,12 @@ According to [[4]], there are several benefits of Scala:
 
     Please refer to the Wikipedia [Type System](https://en.wikipedia.org/wiki/Type_system) for more information and the [page](http://www.artima.com/pins1ed/a-scalable-language.html#footnote1-12) of [[4]] regarding the discussion of static and dynamic typing, especially the pros and cons of Scala as the static type system.
 
+---
 
 In the next post - [Scala Study Note 2: Get Started! \| Scala 学习笔记 (二): 上手!](https://fluency03.github.io/scala-study-note-2/), a quick start of simple Scala programming is given.
 
 
+<div class="breaker"></div>
 
 ## References
 
