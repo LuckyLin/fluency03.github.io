@@ -28,7 +28,7 @@ You can either use the Scala's interpreter, an interactive shell for writing Sca
 # Interactive Interpreter
 
 In this part, I will use the interactive interpreter. The interactive interpreter of Scala is an easy way of starting your first line of code. Any Scala expression can be just typed into the interpreter. The code will be interpreted and evaluated, and the result will be printed out on the console. In order to do so, you can simply type the command `scala` at a command prompt as following:
-{% highlight shell %}
+{% highlight scala %}
 $ scala
 Welcome to Scala version 2.11.7 (Java HotSpot(TM) 64-Bit Server VM, Java 1.8.0_74).
 Type in expressions to have them evaluated.
@@ -288,7 +288,7 @@ println("Hello, World! From a script!")
 
 
 then run it:
-{% highlight shell %}
+{% highlight scala %}
 $ scala scala-script.scala
 Hello, World! From a script!
 {% endhighlight %}
