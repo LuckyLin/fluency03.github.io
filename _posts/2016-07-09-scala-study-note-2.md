@@ -275,13 +275,17 @@ The empty parentheses following function's name indicate the function takes no p
 Instead of using the interpreter interactively, the you can also program Scala language via scripting just like shell script.
 <!-- Although Scala is designed to help programmers build very large-scale systems, it also scales down nicely to scripting.  -->
 A script is just a sequence of statements in a file that will be executed sequentially. This can be done by simply putting the Scala expressions into a file named with postfix `.scala`. The file `scala-script.scala` is shown in the following:
-{% highlight scala linenos %}
+
+{% highlight scala %}
 /*
   This is a Scala script: scala-script.scala
  */
 
 println("Hello, World! From a script!")
 {% endhighlight %}
+
+<!-- <script src="https://gist.github.com/fluency03/bc64dfef63c39e342bd1382895cde910.js"></script> -->
+
 
 then run it:
 {% highlight shell %}
@@ -290,7 +294,8 @@ Hello, World! From a script!
 {% endhighlight %}
 
 Command line arguments to a Scala script are available via a Scala array named args. In Scala, arrays are zero based, and you access an element by specifying an index in parentheses. So the first element in a Scala array named steps is `args(0)`, not `args[0]`, as in Java. To try this out, type the following into a new file named `scala-script-arg.scala`:
-{% highlight scala linenos %}
+
+{% highlight scala %}
 /*
   This is a Scala script: scala-script-arg.scala
   Say hello to the first argument!
@@ -299,16 +304,16 @@ Command line arguments to a Scala script are available via a Scala array named a
 println("Hello, " + args(0) + "!")
 {% endhighlight %}
 
+<!-- <script src="https://gist.github.com/fluency03/393e427b9241441f793da83f8d6f9caa.js"></script> -->
+
+
 then run:
 {% highlight scala %}
 $ scala scala-script.scala Chang
-{% endhighlight %}
-
-In this command, "planet" is passed as a command line argument, which is accessed in the script as args(0). Thus, you should see:
-{% highlight scala %}
 Hello, Chang!
 {% endhighlight %}
 
+In this command, "*Chang*" is passed as a command line argument, which is accessed in the script as `args(0)`.
 This example also shows Strings can be concatenated with the `+` operator, like how it is done in Java.
 
 
