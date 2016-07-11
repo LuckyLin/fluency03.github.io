@@ -13,7 +13,7 @@ url: https://fluency03.github.io
 permalink: /:title/
 
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 
 # To enable google analytics, supply your token below
 analytics-google: 'UA-78813041-1'
