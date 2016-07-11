@@ -175,9 +175,6 @@ var x: Double = 5  /* explicit type */
 
 
 
-
-
-
 ## Functions
 
 A simple function `addOne`, which adds one on the input, can be defined following:
@@ -229,9 +226,50 @@ The empty parentheses following function's name indicate the function takes no p
 
 #### Anonymous Functions
 
+An anonymous function can be simply created as following:
+{% highlight scala %}
+scala> (x: Int, y: Int) => x + y
+res0: (Int, Int) => Int = <function2>
+
+scala> res0(1, 2)
+res1: Int = 3
+{% endhighlight %}
+
+The variable `res0` is representing the anonymous function and two integer parameters can be passed into the function. Additionally, `res0` can be assigned to another variable `adder`. Now, `adder` is representing the same functionality.
+
+{% highlight scala %}
+scala> val adder = res0
+adder: (Int, Int) => Int = <function2>
+
+scala> adder(3, 4)
+res2: Int = 7
+{% endhighlight %}
+
+It can also be anonymous functions without parameters and/or without returning values.
+{% highlight scala %}
+scala> () => println("hello world")
+res6: () => Unit = <function0>
+
+scala> res6()
+hello world
+{% endhighlight %}
 
 
+There are three ways of anonymous functions:
+{% highlight scala %}
+Int => Int
+(Int, Int) => String
+() => String
+{% endhighlight %}
 
+They are the shortcuts of the following representations:
+{% highlight scala %}
+Function1[Int, Int]
+Function2[Int, Int, String]
+Function0[String]
+{% endhighlight %}
+
+As you can see, the number at the end of `Function` indicates the number of input parameters.
 
 
 
@@ -240,8 +278,15 @@ The empty parentheses following function's name indicate the function takes no p
 
 #### Partial application
 
+A function can be partially applied with underscores, which will yield an another function. An underscore is used, as a place holder, to replace a function parameter.
 
+{% highlight scala %}
+scala> val add2 = adder(2, _: Int)
+add2: (Int) => Int = <function1>
 
+scala> add2(3)
+res10: Int = 5
+{% endhighlight %}
 
 
 
@@ -249,13 +294,16 @@ The empty parentheses following function's name indicate the function takes no p
 
 #### Curried Functions
 
+Please refer to the Wikipedia [Currying](https://en.wikipedia.org/wiki/Currying) and the page [Function Currying in Scala](http://www.codecommit.com/blog/scala/function-currying-in-scala) for more information.
 
+Currying is the technique of transforming a function that takes multiple arguments into a function that takes a single argument (the other arguments having been specified by the curry).
 
-
+<!-- Here’s an example of a function that lets you build multipliers of two numbers together. At one call site, you’ll decide which is the multiplier and at a later call site, you’ll choose a multiplicand. -->
 
 {% highlight scala %}
 
 {% endhighlight %}
+
 
 
 
