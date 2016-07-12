@@ -20,6 +20,64 @@ blog: true
 
 # Scala Scripts
 
+In this post, several Scala expressions/syntax/grammers are illustrated using Scala scripts.
+
+
+## Control Constructs
+
+The control constructs in Scala are: *if-statement*, *for-loop*, *while-loop* and *do-while-loop*.
+
+
+
+### if-statement
+
+The if-statement is commonly existing in most of the programming languages for conditional branches. Particularly, in Scala, if-statements are expressions meaning that they can return a (single) value.
+
+<script src="https://gist.github.com/fluency03/de4a7c0d9aa368263feb1a077cbcad2c.js"></script>
+
+Technically, the curly braces "\{" and "\}" can be omitted, if the code consists of a single line in the conditional branch body. However, according to [Scala Style Guide: Curly Braces](https://github.com/databricks/scala-style-guide#curly-braces), the following statements are made:
+
+> *Put curly braces even around one-line conditional or loop statements.*
+
+There is an exception, like the Line 28 in above code snippet.
+
+> *The only exception is if you are using if/else as an one-line ternary operator that is also side-effect free.*
+
+
+
+
+
+
+
+
+
+
+### for-loop
+
+
+
+
+
+
+
+
+### while-loop
+
+
+
+
+
+
+
+
+### do-while-loop
+
+
+
+
+
+
+
 
 
 
