@@ -45,32 +45,25 @@ There is an exception, like the Line 28 in above code snippet.
 
 
 
-
-
-
-
-
-
-
 ### for-loop
 
 
+<script src="https://gist.github.com/fluency03/2c41628df42164ccd8ea324c39a3e469.js"></script>
+
+
+
+
+
+### (do-)while-loop
+
+<script src="https://gist.github.com/fluency03/bebb6b5fee1a9aeb1d6f204a5ee68574.js"></script>
 
 
 
 
 
 
-### while-loop
-
-
-
-
-
-
-
-
-### do-while-loop
+<!-- ### do-while-loop -->
 
 
 
