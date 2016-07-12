@@ -1,5 +1,5 @@
 ---
-title: 'Scala Study Note 2: Get Started! | Scala 学习笔记 (二): 上手!'
+title: 'Scala Study Note 2: Get Started with Scala Interactive Interpreter! | Scala 学习笔记 (二): 上手 Scala 交互解释器!'
 layout: post
 date: '2016-07-09 22:25'
 tag:
@@ -19,7 +19,10 @@ The Scala package can be found here: [http://www.scala-lang.org/download/](http:
 
 
 
-You can either use the Scala's interpreter, an interactive shell for writing Scala expressions and programs, or create a file with type of `.scala` just like `.java` in Java. Please refer to the Section [Compile and Execute](#compile-and-execute) in order to get the way of compiling and executing the scala programs.
+You can either use the Scala's interpreter, an interactive shell for writing Scala expressions and programs, or create a file with type of `.scala` just like `.java` in Java. Please refer to the next post [Scala Study Note 3: First Scala Programs 、| Scala 学习笔记 (三): 第一个 Scala 程序](https://fluency03.github.io/scala-study-note-3/) in order to get the way of compiling and executing the scala programs.
+
+
+In this post, the basics (expressions, variables, functions, classes, inheritance, traits, types, etc.) of Scala are also illustrated.
 
 
 <div class="breaker"></div>
@@ -300,21 +303,111 @@ Currying is the technique of transforming a function that takes multiple argumen
 
 <!-- Here’s an example of a function that lets you build multipliers of two numbers together. At one call site, you’ll decide which is the multiplier and at a later call site, you’ll choose a multiplicand. -->
 
+Previously, we have created a function `adder` with two parameters. It can be re-written as following:
+
+{% highlight scala %}
+scala> def adder(x: Int)(y: Int): Int = x + y
+adder: (x: Int)(y: Int)Int
+
+scala> adder(2)(3)
+res13: Int = 5
+{% endhighlight %}
+
+This kind of function is used in the case, where the first argument is given at one place but the anohter argument is given at another place.
+
+
+Currying isn’t just limited to the self-defiend methods as shown previously. Due to the power of inner methods and closures of Scala, it is also possible to define a method which takes a function of *n* parameters and converts it to a curried function of order *n*. An originally defined function `add: (x: Int, y: Int)Int` can  be transfered to a curried function `addCurried: Int => (Int => Int) = <function1>` via the following process:
+{% highlight scala %}
+scala> def add(x: Int, y: Int): Int = x + y
+add: (x: Int, y: Int)Int
+
+scala> val addCurried = Function.curried(add _)
+<console>:11: error: value curried is not a member of object Function
+       val addCurried = Function.curried(add _)
+
+scala> val addCurried = (add _).curried
+addCurried: Int => (Int => Int) = <function1>
+
+scala> add(1, 2)
+res14: Int = 3
+
+scala> addCurried(1)(2)
+res15: Int = 3
+{% endhighlight %}
+
+In [scala.Function](http://www.scala-lang.org/api/current/#scala.Function$), the method `curried` has been removed but the method `uncurried` exists. The underscore tells the compiler to treat `add` as a function value, rather than a method to be invoked.
+
+
+The curried function can also be un-curried as following:
+{% highlight scala %}
+scala> def adder(x: Int)(y: Int): Int = x + y
+adder: (x: Int)(y: Int)Int
+
+scala> val addUncurried = (adder _).uncurried
+<console>:11: error: value uncurried is not a member of Int => (Int => Int)
+       val addUncurried = (adder _).uncurried
+
+scala> val addUncurried = Function.uncurried(adder _)
+addUncurried: (Int, Int) => Int = <function2>
+
+scala> adder(1)(2)
+res20: Int = 3
+
+scala> addUncurried(1, 2)
+res21: Int = 3
+{% endhighlight %}
+
+According to [scala.Function](http://www.scala-lang.org/api/current/#scala.Function$), it is important to note that the un-curried method is only overloaded for methods of up to arity (number of parameters) 5.  
+
+
+
+
+
+
+This page - *[Methods are not Functions](https://tpolecat.github.io/2014/06/09/methods-functions.html)* - is very interesting and worthy of reading, and can explain the following case:
+
+{% highlight scala %}
+scala> def add1(n: Int): Int = n + 1
+add1: (n: Int)Int
+
+scala> val f = add
+add1   addUncurried   adder
+
+scala> val f = add1
+<console>:11: error: missing arguments for method add1;
+follow this method with `_' if you want to treat it as a partially applied function
+       val f = add1
+               ^
+
+scala> val f = add1 _
+f: Int => Int = <function1>
+
+{% endhighlight %}
+
+I would like to write an another post in order to illustrate the *underscore* and the difference between *function* and *method*.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {% highlight scala %}
 
 {% endhighlight %}
 
-
-
-
 {% highlight scala %}
 
 {% endhighlight %}
-
-
-
-
-
 
 
 
@@ -385,33 +478,12 @@ This example also shows Strings can be concatenated with the `+` operator, like 
 
 
 
+---
+
+In the next post - [Scala Study Note 3: First Scala Programs 、| Scala 学习笔记 (三): 第一个 Scala 程序](https://fluency03.github.io/scala-study-note-3/), you will write the first Scala program.
+
 
 <div class="breaker"></div>
-
-
-# Scala Programs
-
-
-
-
-
-
-
-## Compile and Execute
-
-The way of compiling and executing scala files is as same and easy as how it is done in Java.
-
-The [`scalac`](http://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/tools/scala.html) command compiles the Scala source file(s) and generates corresponding Java bytecode which can be executed on any standard JVM. The Scala compiler works similarly to `javac`, which is the Java compiler of the Java SDK.
-
-{% highlight scala %}
-$ scalac HelloWorld.scala
-{% endhighlight %}
-
-The [`scala`](http://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/tools/scala.html) command executes the above generated bytecode with certain appropriate options.
-
-{% highlight scala %}
-$ scala HelloWorld
-{% endhighlight %}
 
 
 
