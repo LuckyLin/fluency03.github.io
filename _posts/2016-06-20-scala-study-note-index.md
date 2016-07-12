@@ -17,4 +17,6 @@ blog: true
 
   **2. [Scala Study Note 2: Get Started with Scala Interactive Interpreter! \| Scala 学习笔记 (二): 上手 Scala 交互解释器!](https://fluency03.github.io/scala-study-note-2/)**
 
-  **3. [Scala Study Note 3: First Scala Programs \| Scala 学习笔记 (三): 第一个 Scala 程序](https://fluency03.github.io/scala-study-note-3/)**
+  **3. [Scala Study Note 3: Scala Scripts \| Scala 学习笔记 (三): Scala 脚本](https://fluency03.github.io/scala-study-note-3/)**
+
+  **4. [Scala Study Note 4: First Scala Programs \| Scala 学习笔记 (四): 第一个 Scala 程序](https://fluency03.github.io/scala-study-note-4/)**
