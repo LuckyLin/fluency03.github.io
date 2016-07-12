@@ -144,7 +144,7 @@ According to [[4]], there are several benefits of Scala:
 
 ---
 
-In the next post - [Scala Study Note 2: Get Started with Scala Interactive Interpreter! | Scala 学习笔记 (二): 上手 Scala 交互解释器!](https://fluency03.github.io/scala-study-note-2/), a quick start of simple Scala programming using interactive interpreter is given.
+In the next post - [Scala Study Note 2: Get Started with Scala Interactive Interpreter! \| Scala 学习笔记 (二): 上手 Scala 交互解释器!](https://fluency03.github.io/scala-study-note-2/), a quick start of simple Scala programming using interactive interpreter is given.
 
 
 <div class="breaker"></div>

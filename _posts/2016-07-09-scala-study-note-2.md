@@ -19,7 +19,7 @@ The Scala package can be found here: [http://www.scala-lang.org/download/](http:
 
 
 
-You can either use the Scala's interpreter, an interactive shell for writing Scala expressions and programs, or create a file with type of `.scala` just like `.java` in Java. Please refer to the next post [Scala Study Note 3: First Scala Programs 、| Scala 学习笔记 (三): 第一个 Scala 程序](https://fluency03.github.io/scala-study-note-3/) in order to get the way of compiling and executing the scala programs.
+You can either use the Scala's interpreter, an interactive shell for writing Scala expressions and programs, or create a file with type of `.scala` just like `.java` in Java. Please refer to the next post [Scala Study Note 3: First Scala Programs \| Scala 学习笔记 (三): 第一个 Scala 程序](https://fluency03.github.io/scala-study-note-3/) in order to get the way of compiling and executing the scala programs.
 
 
 In this post, the basics (expressions, variables, functions, classes, inheritance, traits, types, etc.) of Scala are also illustrated.
@@ -480,7 +480,7 @@ This example also shows Strings can be concatenated with the `+` operator, like 
 
 ---
 
-In the next post - [Scala Study Note 3: First Scala Programs 、| Scala 学习笔记 (三): 第一个 Scala 程序](https://fluency03.github.io/scala-study-note-3/), you will write the first Scala program.
+In the next post - [Scala Study Note 3: First Scala Programs \| Scala 学习笔记 (三): 第一个 Scala 程序](https://fluency03.github.io/scala-study-note-3/), you will write the first Scala program.
 
 
 <div class="breaker"></div>
