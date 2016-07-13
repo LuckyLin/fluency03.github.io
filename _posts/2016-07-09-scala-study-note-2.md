@@ -208,13 +208,9 @@ starts a function definition                                                func
 
 Function definitions start with `def`. The function's name, in this case `addOne`, is followed by a comma-separated list of parameters in curly parentheses (in this case, there is only one parameter). A type annotation must follow every function parameter, preceded by a colon, because the Scala compiler (and interpreter) does not infer function parameter types. After the close parenthesis of `addOne`'s parameter list, another `: Int` type annotation is followed. This one defines the result type of the function. Following the function's result type is an equals sign and pair of curly braces that contain the body of the function. In this case, it is the expression `m + 1`. And, if a function consists of just one statement just like above example, you can optionally leave off the curly braces.
 
+<!-- If a method takes only one parameter, you can call it without a dot or parentheses.  -->
 
-<!-- In this case, the body contains a single if expression, which selects either x or y, whichever is greater, as the result of the max function. As demonstrated here, Scala's if expression can result in a value, similar to Java's ternary operator. For example, the Scala expression "if (x > y) x else y" behaves similarly to "(x > y) ? x : y" in Java. The equals sign that precedes the body of a function hints that in the functional world view, a function defines an expression that results in a value. -->
-
-
-<!-- In this example, the function named max takes two parameters, x and y, both of type Int. -->
-
-
+When `m + 1` is typed into the Scala interpreter, the method named `+` is actually invoked on the `Int` object `1`. Then the `2` is passing as a parameter of method `+`. Therefore, the expression `1 + 2` can be alternatively written as typical method invocation syntax: `(1).+(2)`. Technically, there is no operator overloading in Scala since there is no traditional concept of operator in Scala. The operator characters such as \+, \-, \*, and / can be used in method names.
 
 
 You can also define a function that takes no parameters and returns no result as following:
