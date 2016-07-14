@@ -151,29 +151,69 @@ According to [[1]], "*Scala achieves a conceptual simplicity by treating everyth
 
 ## Lists
 
+<!-- One of the big ideas of the functional style of programming is that methods should not have side effects. A method's only act should be to compute and return a value. Some benefits gained when you take this approach are that methods become less entangled, and therefore more reliable and reusable. Another benefit (in a statically typed language) is that everything that goes into and out of a method is checked by a type checker, so logic errors are more likely to manifest themselves as type errors. Applying this functional philosophy to the world of objects means making objects immutable. -->
 
+In Scala, the `Array` is a mutable sequence of objects that all share the same type. After an array is instantiated, the length of the array cannot be changed whereas the element values are changable.
+
+Different from the `Array`, the `List` in Scala are always immutable, which means that a Scala `List` can’t be modified once created, (which is also different from the lists in Java). Such lists are designed to enable a functional style programming sicne *one of the big ideas of the functional style of programming is that methods should not have side effects* [[1]]. So how operators are invoked on Scala `List` if they are immutable? When any operation is invoked on a `List`, another `List` is created and returned when an operator is applied. Even though a list is not appendable, it is prependable, since prepending an element at the beginning of a list is in constant-time, whereas appending is a linear-time operation frowing with the size of the list.
+
+
+The two main operators for `List` are `:::` and `::`. The first one is the operator for list concatenation. The second one is the operator to prepend an element to a `List`. Normally, the owner of an operation is the left operand, but the moethod `::` is of the right operand.
 
 
 {% highlight scala %}
+val list1 = List(1, 2)
+val list2 = List(3, 4)
+val list3 = list1 ::: list2
+val list4 = 5 :: list3
+println(list1)
+println(list2)
+println(list3)
+println(list4)
 
+/** results printed out:
+List(1, 2)
+List(3, 4)
+List(1, 2, 3, 4)
+List(5, 1, 2, 3, 4)
+*/
 {% endhighlight %}
 
 
-
-
-
-
-
-
-
-
+<!-- List1 and list2 remain immutable, they didn’t change. List3 is a new list resulting of concatenating list1 and list2. In list4, the String “Hey!” is prepended to list3. -->
 
 
 
 
 ## Tuples
 
+Like lists, tuples are immutable, but unlike lists, tuples can contain different types of elements. Tuples are very useful, for example, if you need to return multiple objects from a method. Once a tuple has been instantiated, its elements can be accessed directly and individually with a *dot*, *underscore*, and the one-based index of the element, i.e., 1 and 2 if the tuple is having two elements. An example is shown in the following:
 
+{% highlight scala %}
+val pair = ("Chang Liu", 1991)
+println(pair._1)
+println(pair._2)
+
+/** results printed out:
+Chang Liu
+1991
+*/
+{% endhighlight %}
+
+
+The tuple `pair` in the code snippet is referred to be the type of `Tuple2[String, Int]`. Additionally, the type of the tuple `("Chang Liu", 1991, "May", 2, "China", "Male")` is `Tuple6[String, Int, String, Int, String, String]`.
+
+
+<!-- You may be wondering why you can't access the elements of a tuple like the elements of a list, for example, with "pair(0)". The reason is that a list's apply method always returns the same type, but each element of a tuple may be a different type: _1 can have one result type, _2 another, and so on. These _N numbers are one-based, instead of zero-based, because starting with 1 is a tradition set by other languages with statically typed tuples, such as Haskell and ML. -->
+
+
+
+
+
+
+
+
+## Sets
 
 
 
@@ -188,11 +228,7 @@ According to [[1]], "*Scala achieves a conceptual simplicity by treating everyth
 
 
 
-
-
-
-
-## Sets and Maps
+## Maps
 
 
 
