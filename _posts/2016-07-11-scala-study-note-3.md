@@ -449,7 +449,7 @@ Scala is not a pure functional language that forces you to program everything in
 
 ---
 
-In the next post - [Scala Study Note 4: First Scala Programs \| Scala 学习笔记 (四): 第一个 Scala 程序](https://fluency03.github.io/scala-study-note-4/), you will write the first Scala program.
+In the next post - [Scala Study Note 4: Scala Programs, Classes and Objects \| Scala 学习笔记 (四): Scala 程序以及类与对象](https://fluency03.github.io/scala-study-note-4/), you will write the first Scala program.
 
 
 <div class="breaker"></div>
