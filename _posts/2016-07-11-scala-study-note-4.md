@@ -1,5 +1,5 @@
 ---
-title: 'Scala Study Note 4: First Scala Programs | Scala 学习笔记 (四): 第一个 Scala 程序'
+title: 'Scala Study Note 4: Scala Programs, Classes and Objects | Scala 学习笔记 (四): Scala 程序以及类与对象'
 layout: post
 date: '2016-07-11 22:25'
 tag:
@@ -8,6 +8,8 @@ tag:
   - Programming Language
   - Functional Programming
   - Object-oriented Programming
+  - Class
+  - Object
 blog: true
 ---
 

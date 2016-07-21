@@ -8,6 +8,10 @@ tag:
   - Programming Language
   - Functional Programming
   - Object-oriented Programming
+  - Interpreter
+  - Variable
+  - Function
+  - Script
 blog: true
 ---
 

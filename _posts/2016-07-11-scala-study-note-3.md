@@ -8,6 +8,14 @@ tag:
   - Programming Language
   - Functional Programming
   - Object-oriented Programming
+  - Script
+  - if-statement
+  - for-loop
+  - while-loop
+  - Array
+  - List
+  - Set
+  - Map
 blog: true
 ---
 
@@ -367,7 +375,7 @@ Given there are no imports, when you say `Map`, you'll get the default: a `scala
 
 ## Functional Style
 
-When I started to study Scala, such a functional programming language was very new to me and it was very hard to me, who has been programming using Java and C/C++ for a long time. Even now, I am still not completely clear about the functional style. I have been trying very hard to grasp the core ideas behind it, which, of course, will require me to make lots of efforts on looking through various materials and asking many questions. I believe that learning to program in a functional style will not only make me a better Scala programmer but also expand my horizons and make me a better programmer in general. Even though imperative style is allowed in Scala, more functional style is definitely encouraged.
+When I started to study Scala, such a functional programming language was very new to me and it was very hard as well since I has been programming under imperative background using Java and C/C++ for a long time. Even now, I am still not completely clear about the functional style. I have been trying very hard to grasp the core ideas behind it, which, of course, requires me to make lots of efforts on looking through various materials and asking many questions. I believe that learning to program in a functional style will expand my horizons in a great extent and make me a better programmer in general. Even though imperative style is allowed in Scala, more functional style is definitely encouraged.
 
 
 <!-- The first step is to recognize the difference between the two styles in code. One telltale sign is that if code contains any vars, it is probably in an imperative style. If the code contains no vars at all — i.e., it contains only vals — it is probably in a functional style. One way to move towards a functional style, therefore, is to try to program without vars. -->
@@ -375,22 +383,35 @@ When I started to study Scala, such a functional programming language was very n
 
 <!-- The Scala perspective, however, is that val and var are just two different tools in your toolbox, both useful, neither inherently evil. Scala encourages you to lean towards vals, but ultimately reach for the best tool given the job at hand. Even if you agree with this balanced philosophy, however, you may still find it challenging at first to figure out how to get rid of vars in your code. -->
 
-*Programming in Scala* [[1]] is a very good book for learning Scala and obtaining a deeper understanding of functional programming in general.
+*Programming in Scala* [[1]] is a very good book for learning Scala and obtaining a deeper understanding of functional programming in general. And I will also try my best to express my ideas through the whole series of blogs.
 
 
+
+<script src="https://gist.github.com/fluency03/6f0a9b6193861b1b0df0506f1ff250b9.js"></script>
+
+
+This example [[1]] illustrates a process of functionalization by introducing fewer `var`s, changing loops, and using `foreach` method. The refactored (more functional) code (line 18-20) is clearer, more concise, and less error-prone than the original (more imperative) code (line 5-11).  The telltale sign of a function with side effects is that its result type is `Unit`, which means it will not return any interesting value. Actually, the refactored `printArgs3` method is not purely functional, because it has side effects, which is, in this case, printing to the standard output stream.
+
+A more functional approach would be to define a method that formats the passed `args` for printing, but just returns the formatted string without any printing effects, as shown in the following expression [[1]]:
 
 {% highlight scala %}
-
+def formatArgs(args: Array[String]) = args.mkString("\n")
 {% endhighlight %}
 
 
 
+Now, there is really no side effects nor `var`s applied at all. The `mkString` method, which can be invoked from on any iterable collection (such as arrays, lists, sets, and maps) and returns a string consisting of the result of calling `toString` on each element, separated by the passed string ("*\n*" in this case). Thus, if `args` contains three string elements "*zero*", "*one*", and "*two*", `formatArgs` will return "*zero\none\ntwo*".
+
+Obviously, unlike the `printArgs3` method, this function `formatArgs` does not print anything out. In order to print out the results, the method `println` can be easily applied for accomplishing that with format args passed to it [[1]]:
+
+{% highlight scala %}
+println(formatArgs(args))
+{% endhighlight %}
+
+However, in most of the cases, it is very inevitable to have a useful program which does not have any side effects otherwise it wouldn't be able to provide value to the outside world in an efficient way. Preferring methods without side effects encourages you to design programs where side-effecting code is minimized in order to make your programs easier to read and test, and less prone to errors.
 
 
-
-
-
-
+Scala is not a pure functional language that forces you to program everything in the functional style but a hybrid and multi-paradigm language integrating imperative/functional. It is likely that, in some situations, an imperative style is a better fit for the problem at hand, and in such cases you should not hesitate to use it.
 
 
 
