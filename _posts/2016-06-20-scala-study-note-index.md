@@ -20,3 +20,5 @@ blog: true
   **3. [Scala Study Note 3: Scala Scripts \| Scala 学习笔记 (三): Scala 脚本](https://fluency03.github.io/scala-study-note-3/)**
 
   **4. [Scala Study Note 4: First Scala Programs \| Scala 学习笔记 (四): 第一个 Scala 程序](https://fluency03.github.io/scala-study-note-4/)**
+
+  **5. [Scala Study Note 5: First Scala Programs \| Scala 学习笔记 (五): 第一个 Scala 程序](https://fluency03.github.io/scala-study-note-5/)**

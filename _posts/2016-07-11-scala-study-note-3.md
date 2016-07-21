@@ -171,12 +171,12 @@ println(list2)
 println(list3)
 println(list4)
 
-/** results printed out:
-List(1, 2)
-List(3, 4)
-List(1, 2, 3, 4)
-List(5, 1, 2, 3, 4)
-*/
+/**
+ * List(1, 2)
+ * List(3, 4)
+ * List(1, 2, 3, 4)
+ * List(5, 1, 2, 3, 4)
+ */
 {% endhighlight %}
 
 
@@ -194,10 +194,10 @@ val pair = ("Chang Liu", 1991)
 println(pair._1)
 println(pair._2)
 
-/** results printed out:
-Chang Liu
-1991
-*/
+/**
+ * Chang Liu
+ * 1991
+ */
 {% endhighlight %}
 
 
@@ -216,26 +216,145 @@ The tuple `pair` in the code snippet is referred to be the type of `Tuple2[Strin
 ## Sets
 
 
+There are two kinds of `Set`, the immutable and the mutable one， where the difference is that when an object is immutable, the object itself can’t be changed, just like `String` in Java. By default, Scala uses the immutable `Set`. If you want to use the mutable `Set`, you’ll have to import the class specifically by `import scala.collection.mutable.Set`. The hierarchy of the `Set` is shown in the following:
 
 {% highlight scala %}
-
+                                          |----------------------|
+                                          |      <<trait>>       |
+                                          | scala.collection.Set |
+                                          |----------------------|
+                                                     |
+                                                     |
+                   |----------------------------------------------------------------------|
+                   |                                                                      |
+                   |                                                                      |
+  |--------------------------------|                                       |------------------------------|
+  |            <<trait>>           |                                       |           <<trait>>          |
+  | scala.collection.immutable.Set |                                       | scala.collection.mutable.Set |
+  |--------------------------------|                                       |------------------------------|
+                   |                                                                       |
+                   |                                                                       |
+                   |                                                                       |
+|------------------------------------|                                   |----------------------------------|
+| scala.collection.immutable.HashSet |                                   | scala.collection.mutable.HashSet |
+|------------------------------------|                                   |----------------------------------|
 {% endhighlight %}
 
 
 
+As you can see, there is a base `trait` for sets, i.e. `scala.collection.Set`, where a trait is similar to a Java interface. Scala then provides two subtraits, one for mutable sets and another for immutable sets. These three traits, with different full name, all share the same simple name, i.e., `Set`. A concrete set class in the Scala API extend either the mutable or immutable `Set` trait. (Although in Java you "implement" interfaces, in Scala you "extend" or "mix in" traits.) Thus, if you want to use a `HashSet`, you can choose between mutable and immutable varieties depending upon your needs in order to take advantage of both functional and imperative styles.
 
+
+
+{% highlight scala %}
+var numSet = Set("zero", "one", "two")
+numSet += "three"
+println(numSet)
+/** Set(zero, one, two, three) */
+{% endhighlight %}
+
+
+
+An immutable set can be defined as a new `var`, as the `numSet` shown above, and meanwhile, initialized with three elements (Strings): "*zero*", "*one*", and "*two*".
+The Scala compiler will infer `numSet`'s type to be the immutable `Set[String]`.
+
+The method `+` can be called on the set in order to add a new element. Both mutable and immutable sets offer a `+` method but with different behaviors. Whereas a mutable set will add the element to itself, an immutable set will create and return a new set with the element added. Such behavior makes the immutable set immutable and reduces the side effects of methods.
+Although mutable sets offer an actual += method, immutable sets do not.
+
+
+{% highlight scala %}
+import scala.collection.mutable.Set
+
+val alphaSet = Set("a", "b", "c")
+alphaSet += "d"
+/**
+ * same as:
+ * alphaSet.+=("d")
+ */
+println(alphaSet)
+/** Set(c, d, a, b) */
+{% endhighlight %}
+
+
+Like Java, you can import a Scala API by giving its fully qualified name so that a simple name, such as `Set`, instead of the longer name, can be applied every time you want to use it. Then, when you say `Set`, the compiler will know that it refers to `scala.collection.mutable.Set` as you imported. In above code snippet, the mutable set `alphaSet` isinitialized with alphabet strings "*a*", "*b*" and "*c*". Then the string "*d*" is added to the mutable set by calling the `+=` method on the set, passing in the string "*d*".
+
+You can also import and use the `HashSet` explicitly as following:
+
+{% highlight scala %}
+import scala.collection.immutable.HashSet
+
+val hashSet = HashSet("scala", "java")
+println(hashSet + "python")
+/** Set(java, scala, python) */
+{% endhighlight %}
 
 
 
 
 ## Maps
 
-
-
+Similarly, `Map` in Scala also follows the same hierarchy.
 
 {% highlight scala %}
-
+                                          |----------------------|
+                                          |      <<trait>>       |
+                                          | scala.collection.Map |
+                                          |----------------------|
+                                                     |
+                                                     |
+                   |----------------------------------------------------------------------|
+                   |                                                                      |
+                   |                                                                      |
+  |--------------------------------|                                       |------------------------------|
+  |            <<trait>>           |                                       |           <<trait>>          |
+  | scala.collection.immutable.Map |                                       | scala.collection.mutable.Map |
+  |--------------------------------|                                       |------------------------------|
+                   |                                                                       |
+                   |                                                                       |
+                   |                                                                       |
+|------------------------------------|                                   |----------------------------------|
+| scala.collection.immutable.HashMap |                                   | scala.collection.mutable.HashMap |
+|------------------------------------|                                   |----------------------------------|
 {% endhighlight %}
+
+
+A mutable `Map` can be imported, defined and initialized as following:
+
+{% highlight scala %}
+import scala.collection.mutable.Map
+
+val numMap = Map[Int, String]()
+numMap += (1 -> "one")
+/**
+ * same as:
+ * numMap.+= (1 -> "one")
+ * or,
+ * numMap += (1.->("one"))
+ * or,
+ * numMap.+=(1.->("one"))
+ */
+numMap += (2 -> "two")
+numMap += (3 -> "three")
+println(numMap(1))
+/** one */
+{% endhighlight %}
+
+The `numMap`, originally, an empty mutable `Map` that has integer keys and string values, without any initial data passed to the factory method. The key/value pairs are passed to the map using methods `->` and `+=`. Similar to the method `+=` as illustrated before, the method `->` is explained in a same way by the Scala compiler, i.e., the binary operation expression `1 -> "one"` is as same as `(1).->("one")`. It is actually a method named `->` called on an integer with the value 1, passing in a string with the value "*one*" This `->` method, which you can invoke on any object in a Scala program, returns a two-element tuple containing the key and value. You then pass this tuple to the `+=` method of the map object to which `numMap` refers.
+
+If you prefer an immutable map, no import is necessary, as immutable is the default map. An example is shown as following:
+
+{% highlight scala %}
+val romanNum = Map(
+  1 -> "I", 2 -> "II", 3 -> "III", 4 -> "IV", 5 -> "V"
+)
+println(romanNum(4))
+/** IV */
+{% endhighlight %}
+
+
+Given there are no imports, when you say `Map`, you'll get the default: a `scala.collection.immutable.Map`. You pass five key/value tuples to the map's factory method, which returns an immutable `Map` containing the passed key/value pairs.
+
+
 
 
 
@@ -248,6 +367,16 @@ The tuple `pair` in the code snippet is referred to be the type of `Tuple2[Strin
 
 ## Functional Style
 
+When I started to study Scala, such a functional programming language was very new to me and it was very hard to me, who has been programming using Java and C/C++ for a long time. Even now, I am still not completely clear about the functional style. I have been trying very hard to grasp the core ideas behind it, which, of course, will require me to make lots of efforts on looking through various materials and asking many questions. I believe that learning to program in a functional style will not only make me a better Scala programmer but also expand my horizons and make me a better programmer in general. Even though imperative style is allowed in Scala, more functional style is definitely encouraged.
+
+
+<!-- The first step is to recognize the difference between the two styles in code. One telltale sign is that if code contains any vars, it is probably in an imperative style. If the code contains no vars at all — i.e., it contains only vals — it is probably in a functional style. One way to move towards a functional style, therefore, is to try to program without vars. -->
+
+
+<!-- The Scala perspective, however, is that val and var are just two different tools in your toolbox, both useful, neither inherently evil. Scala encourages you to lean towards vals, but ultimately reach for the best tool given the job at hand. Even if you agree with this balanced philosophy, however, you may still find it challenging at first to figure out how to get rid of vars in your code. -->
+
+*Programming in Scala* [[1]] is a very good book for learning Scala and obtaining a deeper understanding of functional programming in general.
+
 
 
 {% highlight scala %}
@@ -262,6 +391,15 @@ The tuple `pair` in the code snippet is referred to be the type of `Tuple2[Strin
 
 
 
+
+
+
+
+
+
+#### A balanced attitude for Scala programmers [[1]]
+
+> *Prefer vals, immutable objects, and methods without side effects. Reach for them first. Use vars, mutable objects, and methods with side effects when you have a specific need and justification for them.*
 
 
 
