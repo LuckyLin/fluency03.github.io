@@ -16,7 +16,8 @@ blog: true
 
 
 This is a try-out of Pandas, an efficient Python library for data processing.
-Reference: http://pandas.pydata.org/pandas-docs/stable/10min.html.
+
+Reference: [10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html).
 
 
 ```python
