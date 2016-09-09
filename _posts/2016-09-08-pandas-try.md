@@ -1,5 +1,5 @@
 ---
-title: 'Pandas try-out.'
+title: 'Pandas Try-out.'
 layout: post
 date: '2016-09-08 22:25'
 tag:
