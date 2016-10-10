@@ -14,12 +14,19 @@ A software development engineer with innovative and entrepreneurial mind set
 </ul>
 
 
+<h2>Works</h2>
+
+<ul class="works">
+	<li>Junior IT Specialist - Dev Engineer, ING, Amsterdam, The Netherlands. Sep. 2016. - PRESENT</li>
+	<li>Internship and Master Thesis, Ericsson, Stockholm, Sweden. Jan. 2016 - Aug. 2016</li>
+</ul>
+
 <h2>Educations</h2>
 
 <ul class="educations">
-	<li>KTH Royal Institute of Technology, Stockholm, Sweden</li>
-	<li>Eindhoven University of Technology, Eindhoven, The Netherlands</li>
-	<li>University of Electronic Science and Technology of China, Chengdu, China</li>
+	<li>KTH Royal Institute of Technology (KTH), Stockholm, Sweden. Sep. 2015 - Aug. 2016</li>
+	<li>Eindhoven University of Technology (TU/e), Eindhoven, The Netherlands. Sep. 2014 - Aug. 2015</li>
+	<li>University of Electronic Science and Technology of China (UESTC), Chengdu, China. Sep. 2010 - Jul. 2014</li>
 </ul>
 
 <!-- <li></li> -->
