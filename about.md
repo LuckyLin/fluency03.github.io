@@ -26,6 +26,7 @@ A software development engineer with innovative and entrepreneurial mind set
 <ul class="educations">
 	<li>KTH Royal Institute of Technology (KTH), Stockholm, Sweden. Sep. 2015 - Aug. 2016</li>
 	<li>Eindhoven University of Technology (TU/e), Eindhoven, The Netherlands. Sep. 2014 - Aug. 2015</li>
+	<li>EIT Digital Master School, Europe. Sep. 2014 - Aug. 2016</li>
 	<li>University of Electronic Science and Technology of China (UESTC), Chengdu, China. Sep. 2010 - Jul. 2014</li>
 </ul>
 
