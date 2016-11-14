@@ -53,12 +53,11 @@ I have tested my request on https://apigee.com/console/ and it is working fine a
 <center><img src="../assets/images/apigee.png"></center>
 
 
-After SIX days after I reported this issue to <weixin_developer@qq.com>, I finally got a response from them with just one line:
+After SIX days after I reported this issue to <weixin_developer@qq.com>, I finally got a response from them:
 
 > *Thanks for feedback. This is our bug which will be fixed in the near future.*
 
 
 
-<img src="../assets/images/1f914.png" width="100"><img src="../assets/images/1f914.png" width="100"><img src="../assets/images/1f914.png" width="100">
 
 I will keep this post updated as long as I find this bug has been fixed or they have contacted me further.
