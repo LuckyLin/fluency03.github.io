@@ -8,6 +8,7 @@ tag:
   - Kibana
   - X-Pack
   - ELK
+  - Security
   - Monitoring
   - Ubuntu
 blog: true
@@ -351,3 +352,5 @@ It can also be shown in JSON format:
   }
 }
 {% endhighlight %}
+
+In [Setup security and monitoring layer over Elastic Stack using X-Pack]()
