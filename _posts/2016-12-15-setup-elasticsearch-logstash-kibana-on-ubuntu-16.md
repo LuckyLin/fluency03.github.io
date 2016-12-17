@@ -189,6 +189,7 @@ fluency03@fluency03:~/Documents/ELK/kibana-5.1.1-linux-x86_64$ ./bin/kibana
 {% endhighlight %}
 
 You can access Kibana in a browser by typing: *[http://localhost:5601](http://localhost:5601)*.
+
 ![Kibana](../assets/images/kibana.png)
 
 
@@ -353,4 +354,4 @@ It can also be shown in JSON format:
 }
 {% endhighlight %}
 
-In [Setup security and monitoring layer over Elastic Stack using X-Pack]()
+In [Setup security and monitoring layer over Elastic Stack using X-Pack](https://fluency03.github.io/setup-security-and-monitoring-layer-over-elastic-stack-using-x-pack/), I am going to install X-Pack over ELK.
