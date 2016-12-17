@@ -187,6 +187,7 @@ fluency03@fluency03:~/Documents/ELK/kibana-5.1.1-linux-x86_64$ ./bin/kibana
   log   [19:34:00.668] [info][status][ui settings] Status changed from yellow to green - Ready
 {% endhighlight %}
 
+You can access Kibana in a browser by typing: *[http://localhost:5601](http://localhost:5601)*.
 ![Kibana](../assets/images/kibana.png)
 
 

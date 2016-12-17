@@ -17,7 +17,7 @@ A software development engineer with innovative and entrepreneurial mind set
 <h2>Works</h2>
 
 <ul class="works">
-	<li>Junior IT Specialist - Dev Engineer, ING, Amsterdam, The Netherlands. Sep. 2016. - PRESENT</li>
+	<li>IT Specialist - Dev Engineer, ING, Amsterdam, The Netherlands. Sep. 2016. - PRESENT</li>
 	<li>Internship and Master Thesis, Ericsson, Stockholm, Sweden. Jan. 2016 - Aug. 2016</li>
 </ul>
 
