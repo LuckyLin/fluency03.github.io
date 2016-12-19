@@ -46,7 +46,7 @@ A software development engineer with innovative and entrepreneurial mind set
 	<li>VHDL, Verilog</li>
 	<li>CUDA</li>
 	<li>SystemC (and TLM)</li>
-	<li>Shell Script</li>
+	<li>Linux, Shell</li>
 	<li>Git</li>
 	<li>LaTeX</li>
 </ul>
