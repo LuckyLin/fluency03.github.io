@@ -42,6 +42,7 @@ A software development engineer with innovative and entrepreneurial mind set
 	<li>JavaScript</li>
 <!-- 	<li>Apache Spark</li> -->
 	<li>Scala</li>
+	<li>Elasticsearch, Logstash, Kibana (ELK)</li>
 	<li>VHDL, Verilog</li>
 	<li>CUDA</li>
 	<li>SystemC (and TLM)</li>
