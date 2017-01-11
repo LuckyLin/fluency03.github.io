@@ -61,3 +61,15 @@ After SIX days after I reported this issue to <weixin_developer@qq.com>, I final
 
 
 I will keep this post updated as long as I find this bug has been fixed or they have contacted me further.
+
+
+
+---
+
+
+## Update
+
+In the [Update Log](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/uplog.html?t=201716), search tag 0.11.112200, and they have repaired this bug:
+
+
+<center><img src="../assets/images/weapp_bug_repair.png"></center>
