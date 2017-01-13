@@ -354,4 +354,4 @@ It can also be shown in JSON format:
 }
 {% endhighlight %}
 
-In [Setup security and monitoring layer over Elastic Stack using X-Pack](https://fluency03.github.io/setup-security-and-monitoring-layer-over-elastic-stack-using-x-pack/), I am going to install X-Pack over ELK.
+<!-- In [Setup security and monitoring layer over Elastic Stack using X-Pack](https://fluency03.github.io/setup-security-and-monitoring-layer-over-elastic-stack-using-x-pack/), I am going to install X-Pack over ELK. -->
