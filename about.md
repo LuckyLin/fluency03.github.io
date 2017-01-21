@@ -33,20 +33,28 @@ A software development engineer with innovative and entrepreneurial mind set
 <!-- <li></li> -->
 
 
-<h2>Skills</h2>
+<h2>Programming</h2>
 
-<ul class="skill-list">
+<ul class="programming">
 	<li>Python</li>
-	<li>C, C++</li>
 	<li>Java</li>
+  <li>C, C++</li>
+  <li>Shell</li>
+  <li>Scala</li>
+  <li>SQL</li>
+  <li>HTML</li>
 	<li>JavaScript</li>
+  <li>CUDA</li>
+
+
+<h2>Tools</h2>
+
+<ul class="tools">
 <!-- 	<li>Apache Spark</li> -->
-	<li>Scala</li>
-	<li>Elasticsearch, Logstash, Kibana (ELK)</li>
-	<li>VHDL, Verilog</li>
-	<li>CUDA</li>
-	<li>SystemC (and TLM)</li>
-	<li>Linux, Shell</li>
+	<li>Linux</li>
+  <li>Docker</li>
+  <li>Database (Oracle, Cassandra)</li>
+  <li>Elasticsearch, Logstash, Kibana (ELK)</li>
 	<li>Git</li>
 	<li>LaTeX</li>
 </ul>
