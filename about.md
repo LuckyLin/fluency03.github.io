@@ -45,7 +45,7 @@ A software development engineer with innovative and entrepreneurial mind set
   <li>HTML</li>
 	<li>JavaScript</li>
   <li>CUDA</li>
-
+</ul>
 
 <h2>Tools</h2>
 
@@ -56,7 +56,7 @@ A software development engineer with innovative and entrepreneurial mind set
   <li>Database (Oracle, Cassandra)</li>
   <li>Elasticsearch, Logstash, Kibana (ELK)</li>
 	<li>Git</li>
-	<li>LaTeX</li>
+	<li><span class="latex">L<sup>A</sup>T<sub>E</sub>X</span></li>
 </ul>
 
 
