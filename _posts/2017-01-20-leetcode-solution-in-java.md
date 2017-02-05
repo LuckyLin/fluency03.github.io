@@ -7,7 +7,6 @@ tag:
   - Java
   - Algorithms
   - Data Structure
-  - Question
   - Interview
   - Programming
 blog: true
