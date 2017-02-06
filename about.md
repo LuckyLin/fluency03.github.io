@@ -35,7 +35,7 @@ A software development engineer with innovative and entrepreneurial mind set
 
 <h2>Programming</h2>
 
-<ul class="programming">
+<ul class="list">
 	<li>Python</li>
 	<li>Java</li>
   <li>C, C++</li>
@@ -49,7 +49,7 @@ A software development engineer with innovative and entrepreneurial mind set
 
 <h2>Tools</h2>
 
-<ul class="tools">
+<ul class="list">
 <!-- 	<li>Apache Spark</li> -->
 	<li>Linux</li>
   <li>Docker</li>
