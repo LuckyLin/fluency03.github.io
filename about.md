@@ -4,6 +4,27 @@ layout: page
 ---
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
+<style>
+.item {
+    font-weight: 300;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 6rem;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    padding: 3px 9px;
+    border-radius: 3px;
+    font-size: 1.3rem;
+    background: #ededed;
+    color: #666;
+    letter-spacing: 1px;
+    margin: 0 .5rem 1rem;
+    text-decoration: none;
+    display: inline-block;
+}
+</style>
+
+
 A software development engineer with innovative and entrepreneurial mind set
 <ul class="me">
   <li>who is expecting to work with talented people and solve real problems</li>
