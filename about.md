@@ -89,9 +89,11 @@ A software development engineer with innovative and entrepreneurial mind set
 
 <h2>Hobbies</h2>
 
-<ul class="hobbies">
-	Basketball, Travel, Game of Thrones
-</ul>
+<section class="list">
+  <a class="skill">Basketball</a>
+  <a class="skill">Travel</a>
+  <a class="skill">Game of Thrones</a>
+</section>
 
 
 <h2>Download My <a href="http://fluency03.com/cv.pdf">Resume</a></h2>
