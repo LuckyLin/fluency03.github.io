@@ -5,7 +5,7 @@ layout: page
 <!-- ![Profile Image]({{ site.url }}/{{ site.picture }}) -->
 
 <style>
-.item {
+.skill {
     font-weight: 300;
     text-transform: uppercase;
     text-align: center;
@@ -16,7 +16,7 @@ layout: page
     border-radius: 3px;
     font-size: 1.3rem;
     background: #ededed;
-    color: #666;
+    color: #000;
     letter-spacing: 1px;
     margin: 0 .5rem 1rem;
     text-decoration: none;
@@ -57,27 +57,33 @@ A software development engineer with innovative and entrepreneurial mind set
 <h2>Programming</h2>
 
 <section class="list">
-	<a class="item">Python</a>
-	<a class="item">Java</a>
-  <a class="item">C, C++</a>
-  <a class="item">Shell</a>
-  <a class="item">Scala</a>
-  <a class="item">SQL</a>
-  <a class="item">HTML</a>
-	<a class="item">JavaScript</a>
-  <a class="item">CUDA</a>
+	<a class="skill">Python</a>
+	<a class="skill">Java</a>
+  <a class="skill">C</a>
+  <a class="skill">C++</a>
+  <a class="skill">Shell</a>
+  <a class="skill">Scala</a>
+  <a class="skill">SQL</a>
+  <a class="skill">HTML</a>
+	<a class="skill">JavaScript</a>
+  <a class="skill">CUDA</a>
 </section>
 
 <h2>Tools</h2>
 
 <section class="list">
-<!-- 	<a class="item">Apache Spark</a> -->
-	<a class="item">Linux</a>
-  <a class="item">Docker</a>
-  <a class="item">Database (Oracle, Cassandra)</a>
-  <a class="item">Elasticsearch, Logstash, Kibana (ELK)</a>
-	<a class="item">Git</a>
-	<a class="item"><span class="latex">L<sup>A</sup>T<sub>E</sub>X</span></a>
+<!-- 	<a class="skill">Apache Spark</a> -->
+	<a class="skill">Linux</a>
+  <a class="skill">Docker</a>
+  <a class="skill">Database</a>
+  <a class="skill">Oracle</a>
+  <a class="skill">Cassandra</a>
+  <a class="skill">Elasticsearch</a>
+  <a class="skill">Logstash</a>
+  <a class="skill">Kibana</a>
+  <a class="skill">ELK</a>
+	<a class="skill">Git</a>
+	<a class="skill"><span class="latex">L<sup>A</sup>T<sub>E</sub>X</span></a>
 </section>
 
 
@@ -88,7 +94,7 @@ A software development engineer with innovative and entrepreneurial mind set
 </ul>
 
 
-<h2>Download My <a href="https://fluency03.github.io/cv.pdf">Resume</a></h2>
+<h2>Download My <a href="http://fluency03.com/cv.pdf">Resume</a></h2>
 
 <!-- <iframe src="//www.slideshare.net/slideshow/embed_code/key/airtnCyx84PJ3l" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ChangLiu61/cv-62744815" title="cv" target="_blank">cv</a> </strong> from <strong><a href="//www.slideshare.net/ChangLiu61" target="_blank">Chang Liu</a></strong> </div> -->
 
