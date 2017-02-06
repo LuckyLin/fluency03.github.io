@@ -7,7 +7,6 @@ layout: page
 <style>
 .skill {
     font-weight: 300;
-    text-transform: uppercase;
     text-align: center;
     margin-bottom: 6rem;
     -webkit-font-smoothing: antialiased;
