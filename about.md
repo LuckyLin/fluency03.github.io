@@ -35,29 +35,29 @@ A software development engineer with innovative and entrepreneurial mind set
 
 <h2>Programming</h2>
 
-<ul class="list">
-	<li>Python</li>
-	<li>Java</li>
-  <li>C, C++</li>
-  <li>Shell</li>
-  <li>Scala</li>
-  <li>SQL</li>
-  <li>HTML</li>
-	<li>JavaScript</li>
-  <li>CUDA</li>
-</ul>
+<section class="list">
+	<a class="item">Python</a>
+	<a class="item">Java</a>
+  <a class="item">C, C++</a>
+  <a class="item">Shell</a>
+  <a class="item">Scala</a>
+  <a class="item">SQL</a>
+  <a class="item">HTML</a>
+	<a class="item">JavaScript</a>
+  <a class="item">CUDA</a>
+</section>
 
 <h2>Tools</h2>
 
-<ul class="list">
-<!-- 	<li>Apache Spark</li> -->
-	<li>Linux</li>
-  <li>Docker</li>
-  <li>Database (Oracle, Cassandra)</li>
-  <li>Elasticsearch, Logstash, Kibana (ELK)</li>
-	<li>Git</li>
-	<li><span class="latex">L<sup>A</sup>T<sub>E</sub>X</span></li>
-</ul>
+<section class="list">
+<!-- 	<a class="item">Apache Spark</a> -->
+	<a class="item">Linux</a>
+  <a class="item">Docker</a>
+  <a class="item">Database (Oracle, Cassandra)</a>
+  <a class="item">Elasticsearch, Logstash, Kibana (ELK)</a>
+	<a class="item">Git</a>
+	<a class="item"><span class="latex">L<sup>A</sup>T<sub>E</sub>X</span></a>
+</section>
 
 
 <h2>Hobbies</h2>
