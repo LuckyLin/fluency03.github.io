@@ -63,12 +63,14 @@ A software development engineer with innovative and entrepreneurial mind set
   <a class="skill">Shell</a>
   <a class="skill">Scala</a>
   <a class="skill">SQL</a>
-  <a class="skill">HTML</a>
 	<a class="skill">JavaScript</a>
+  <a class="skill">Node.js (Express.js)</a>
+  <a class="skill">Polymer</a>
+  <a class="skill">HTML</a>
   <a class="skill">CUDA</a>
 </section>
 
-<h2>Tools</h2>
+<h2>Skills</h2>
 
 <section class="list">
 <!-- 	<a class="skill">Apache Spark</a> -->
@@ -77,6 +79,7 @@ A software development engineer with innovative and entrepreneurial mind set
   <a class="skill">Database</a>
   <a class="skill">Oracle</a>
   <a class="skill">Cassandra</a>
+  <a class="skill">REST API</a>
   <a class="skill">Elasticsearch</a>
   <a class="skill">Logstash</a>
   <a class="skill">Kibana</a>
