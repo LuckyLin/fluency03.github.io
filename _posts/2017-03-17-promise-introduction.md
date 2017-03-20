@@ -15,7 +15,8 @@ blog: true
 
 *Please see [here](#references) for the reference list. Demo code [here](https://github.com/fluency03/promise-blog).*
 
----
+<div class="breaker"></div>
+
 
 Recently, in order to avoid directly exposing my Database API to devices outside of server's newtork (such as personal laptop), I am planning to migrate my Polymer website (which is doing Database query or insert through APIs) from client-side to server-side using Node.js.
 

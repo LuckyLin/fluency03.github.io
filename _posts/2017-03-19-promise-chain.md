@@ -13,13 +13,12 @@ tag:
 blog: true
 ---
 
-*Please see [here](#references) for the reference list. Demo code [here](https://github.com/fluency03/promise-blog). Previous blog [here](http://fluency03.com/promise-chain/)*
+*Please see [here](#references) for the reference list. Demo code [here](https://github.com/fluency03/promise-blog).*
 
 
----
+*Promise basics? Please go to my previous blog [Promise Introduction](http://fluency03.com/promise-intoduction/).*
 
-
-
+<div class="breaker"></div>
 
 
 ## Promise Chain
