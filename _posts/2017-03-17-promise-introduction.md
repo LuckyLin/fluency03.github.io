@@ -58,22 +58,22 @@ Let's look at how a single simple Promise is behaving.
 
 
 ```
---------------------------Promise-------------------------------
-|                                                              |
-|                                                              |
-|                                ---------Settled--------      |
-|                                |                      |      |
-|    -----------       resolve   |     -------------    |      |
-|    | Pending | ----------------|---> | Fulfilled |    |      |
-|    -----------   |             |     -------------    |      |
-|                  |             |                      |      |
-|                  |   reject    |     ------------     |      |
-|                  --------------|---> | Rejected |     |      |
-|                                |     ------------     |      |
-|                                ------------------------      |
-|                                                              |
-|                                                              |
-----------------------------------------------------------------
+          --------------------------Promise-------------------------------
+          |                                                              |
+          |                                                              |
+          |                                ---------Settled--------      |
+          |                                |                      |      |
+          |    -----------       resolve   |     -------------    |      |
+          |    | Pending | ----------------|---> | Fulfilled |    |      |
+          |    -----------   |             |     -------------    |      |
+          |                  |             |                      |      |
+          |                  |   reject    |     ------------     |      |
+          |                  --------------|---> | Rejected |     |      |
+          |                                |     ------------     |      |
+          |                                ------------------------      |
+          |                                                              |
+          |                                                              |
+          ----------------------------------------------------------------
 ```
 
 
@@ -102,7 +102,7 @@ var promise = new Promise(function(resolve, reject) {
 });
 ```
 
-The promise constructor takes one callback function as parameter, also known as [*executor*](http://www.ecma-international.org/ecma-262/6.0/index.html#sec-promise-executor) in [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html#sec-promise-constructor) (hereinafter referred to as *ES6*). This executor is passed with two parameters, `resolve` and `reject`. You can do some ascynchronous actions in the callback. Eventually, the `resolve` will be called to resolve the promise if everything worked, otherwise `reject` is called to reject it:
+The promise constructor takes one callback function as parameter, also known as [***executor***](http://www.ecma-international.org/ecma-262/6.0/index.html#sec-promise-executor) in [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html#sec-promise-constructor) (hereinafter referred to as *ES6*). This executor is passed with two parameters, `resolve` and `reject`. You can do some ascynchronous actions in the callback. Eventually, the `resolve` will be called to resolve the promise if everything worked, otherwise `reject` is called to reject it:
 - `resolve`: If everything went well (in this case, there is no error and *I am Chang* indeed, i.e., `iAmChang` is `true`), a success value is sent out via `resolve()`.
 - `reject`: If an error happened or something went wrong, the `reject()` is called with a reason specified.
 
@@ -115,7 +115,7 @@ I think the blog [You're Missing the Point of Promises](https://blog.domenic.me/
 
 
 
-## `then`
+## `then` Method
 
 As stated in the [specifications](https://promisesaplus.com/#the-then-method), *a promise must provide a `then` method to access its current or eventual `value` or `reason`*.
 
@@ -228,7 +228,7 @@ See the complete specifications of `then` method [here](https://promisesaplus.co
 
 
 
-## `catch`
+## `catch` Method
 
 The `catch` method is implemented for convinient error and rejection case handling. It returns a promise with rejected cases only.
 
