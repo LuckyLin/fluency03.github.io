@@ -371,10 +371,7 @@ Promise.reject(reason).then(function(value) {
 ## Promise Chain
 
 
-
-
-
-
+See my next blog: [Promise Chain](http://fluency03.com/promise-chain/).
 
 
 
