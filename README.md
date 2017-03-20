@@ -1,3 +1,1 @@
-# this is my blog
-
-# fluency03.com
+# [fluency03.com](http://fluency03.com)
