@@ -1,4 +1,4 @@
-![]---
+---
 title: 'Promise Introduction'
 layout: post
 date: '2017-03-17 10:25'
