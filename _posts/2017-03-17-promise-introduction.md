@@ -1,4 +1,4 @@
----
+![]---
 title: 'Promise Introduction'
 layout: post
 date: '2017-03-17 10:25'
@@ -150,7 +150,8 @@ According to [Specification 2.2.7](https://promisesaplus.com/#point-40), in shor
 - If either handler throws an exception, the new `promise` is rejected with that exception.
 
 
-![Promise Then](../assets/images/promise.jpg)
+![Promise](../assets/images/promise.jpg)
+<figcaption class="caption">Promise States. *Source: [Exploring ES6](http://exploringjs.com/es6/ch_promises.html)).*</figcaption>
 
 
 This breaks down into four scenarios of `then`, according to [Domenic's blog](https://blog.domenic.me/youre-missing-the-point-of-promises/), depending on the state of the promise and [this book](http://exploringjs.com/es6/ch_promises.html) has a really good graph showing how a promise behaves after calling `then`.

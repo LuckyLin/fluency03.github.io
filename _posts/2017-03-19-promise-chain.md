@@ -126,6 +126,8 @@ asyncThing1().then(function() {         // (A)
 The flow chat of above code looks like this:
 
 ![](../assets/images/promise-chain.jpg)
+<figcaption class="caption">Promise States. *Source: [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises).*</figcaption>
+
 
 <span style="color:Red">Red arrow</span> represents error flow (i.e., `onRejected`). <span style="color:DarkBlue">Blue arrow</span> represents value flow (i.e., `onFulfilled`).
 
