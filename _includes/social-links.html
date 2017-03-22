@@ -59,6 +59,12 @@
         </a>
     {% endif %}
 
+    {% if site.npm %}
+        <a class="link" data-title="npmjs.com/~{{ site.npm }}" href="https://www.npmjs.com/~{{ site.npm }}" target="_blank">
+            <svg class="icon icon-npm"><use xlink:href="#icon-npm"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.medium %}
         <a class="link" data-title="medium.com/@{{ site.medium }}" href="https://medium.com/@{{ site.medium }}" target="_blank">
             <svg class="icon icon-medium"><use xlink:href="#icon-medium"></use></svg>
